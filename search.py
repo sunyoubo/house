@@ -10,36 +10,41 @@ base_url = 'https://bj.lianjia.com/ditiefang/'
 api_url = 'https://bj.lianjia.com/tools/calccost?house_code='
 search_condition = 'co21sf1bp100ep250/'
 subway_dict = {
-    '1号线': 'li647',
-    '2号线': 'li648',
-    '4号线大兴线': 'li656',
-    '5号线': 'li649',
-    '6号线': 'li46107350',
-    '7号线': 'li46537785',
-    '8号线': 'li659',
-    '8号线南段': 'li1120037074696977',
-    '9号线': 'li43145267',
-    '10号线': 'li651',
-    '13号线': 'li652',
-    '14号线东段': 'li46461179',
-    '14号线西段': 'li1110790465974155',
-    '15号线': 'li43143633',
-    '16号线': 'li1116796246117001',
-    '八通线': 'li653',
-    '亦庄线': 'li43144847',
-    '昌平线': 'li43144993',
-    '房山线': 'li43145111',
+    'li647': '1号线',
+    'li648': '2号线',
+    'li656': '4号线大兴线',
+    'li649': '5号线',
+    'li46107350': '6号线',
+    'li46537785': '7号线',
+    'li659': '8号线',
+    'li1120037074696977': '8号线南段',
+    'li43145267': '9号线',
+    'li651': '10号线',
+    'li652': '13号线',
+    'li46461179': '14号线东段',
+    'li1110790465974155': '14号线西段',
+    'li43143633': '15号线',
+    'li1116796246117001': '16号线',
+    'li653': '八通线',
+    'li43144847': '亦庄线',
+    'li43144993': '昌平线',
+    'li43145111': '房山线',
 }
+
+line_order = ['li652', 'li659', 'li649', 'li648', 'li647', 'li651', 'li656', 'li43145267', 'li46107350', 'li43143633',
+              'li1116796246117001', 'li46537785', 'li1120037074696977', 'li46461179', 'li1110790465974155',
+              'li43144993', 'li653', 'li43144847', 'li43145111']
 
 headers = {
     "Host": "bj.lianjia.com",
     "Accept": "application/json",
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 "
+                  "Safari/537.36"
 }
 
 
 def get_house_by_subway(subway):
-    assert subway in subway_dict.values()
+    assert subway in subway_dict.keys()
 
     subway_house_list = []
     first_page_url = base_url + subway + '/' + search_condition
@@ -163,18 +168,21 @@ def match_house(house_info, shoufu_max, area_min, house_age_max, dixiashi):
 
 
 def main(args):
-    file_name = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    file_name = time.strftime("%Y-%m-%d_%H_%M", time.localtime())
     house_count = 0
     all_total_shoufu = 0
     all_total_price = 0
+    match_house_list = []
 
     with open('history/' + file_name + '.txt', 'w') as f:
         f.write("筛选条件：" + str(args) + '\n')
         f.write('\n')
-        for subway in subway_dict.items():
-            print("地铁：", subway[0])
-            subway_house_list = get_house_by_subway(subway[1])
+        for subway in line_order:
+            print("地铁：", subway_dict[subway])
+            subway_house_list = get_house_by_subway(subway)
             for house_url in subway_house_list:
+                if house_url in match_house_list:
+                    continue
                 try:
                     result, house_info = get_house_detail_by_api(house_url)
                     if not result:
@@ -183,10 +191,12 @@ def main(args):
                 except Exception as e:
                     continue
                 if match_house(house_info, args.shoufu, args.area, args.age, args.dixiashi):
+                    match_house_list.append(house_url)
                     house_count += 1
                     all_total_shoufu += house_info.get('total_shoufu', 0)
                     all_total_price += house_info.get('total_price', 0)
-                    out_put = "总首付（万）：" + str(int(house_info.get('total_shoufu', 0))) + " 详细信息：" \
+                    out_put = "地铁：" + subway_dict[subway] + " 总首付（万）：" + str(
+                        int(house_info.get('total_shoufu', 0))) + " 详细信息：" \
                               + str(house_info) + " 链接：" + house_url
                     print('房源匹配 --->' + out_put + " 链接：" + house_url)
                     f.write(out_put + '\n')
