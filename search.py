@@ -201,7 +201,7 @@ def main(args):
                     print('房源匹配 --->' + out_put + " 链接：" + house_url)
                     f.write(out_put + '\n')
                 else:
-                    print("房源未匹配 总首付（万)：", str(int(house_info.get('total_shoufu', 0))), house_info)
+                    print("房源未匹配 总首付（万)：", str(int(house_info.get('total_shoufu', 0))), house_info, " 链接：" + house_url)
             time.sleep(3)
 
         f.write('\n')
