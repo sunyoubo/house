@@ -28,12 +28,11 @@ subway_dict = {
     'li653': '八通线',
     'li43144847': '亦庄线',
     'li43144993': '昌平线',
-    'li43145111': '房山线',
 }
 
 line_order = ['li652', 'li659', 'li649', 'li648', 'li647', 'li651', 'li656', 'li43145267', 'li46107350', 'li43143633',
               'li1116796246117001', 'li46537785', 'li1120037074696977', 'li46461179', 'li1110790465974155',
-              'li43144993', 'li653', 'li43144847', 'li43145111']
+              'li43144993', 'li653', 'li43144847']
 
 headers = {
     "Host": "bj.lianjia.com",
@@ -184,25 +183,24 @@ def main(args):
                 if house_url in match_house_list:
                     continue
                 try:
-                    result, house_info = get_house_detail_by_api(house_url)
-                    if not result:
-                        house_info = get_house_detail_by_html(house_url)
-                    time.sleep(1)
+                    house_info = get_house_detail_by_html(house_url)
+                    result, house_info2 = get_house_detail_by_api(house_url)
+                    time.sleep(3)
                 except Exception as e:
                     continue
+                out_put = "地铁：" + subway_dict[subway] + " 总首付：" + str(
+                    int(house_info.get('total_shoufu', 0))) + "（万）\n        网页获取：" + str(house_info) \
+                          + "\n        api获取：" + str(house_info2) + "\n        链接：" + house_url
                 if match_house(house_info, args.shoufu, args.area, args.age, args.dixiashi):
                     match_house_list.append(house_url)
                     house_count += 1
                     all_total_shoufu += house_info.get('total_shoufu', 0)
                     all_total_price += house_info.get('total_price', 0)
-                    out_put = "地铁：" + subway_dict[subway] + " 总首付（万）：" + str(
-                        int(house_info.get('total_shoufu', 0))) + " 详细信息：" \
-                              + str(house_info) + " 链接：" + house_url
-                    print('房源匹配 --->' + out_put + " 链接：" + house_url)
+                    print('房源匹配 --->' + out_put)
                     f.write(out_put + '\n')
                 else:
-                    print("房源未匹配 总首付（万)：", str(int(house_info.get('total_shoufu', 0))), house_info, " 链接：" + house_url)
-            time.sleep(3)
+                    print(out_put)
+            time.sleep(5)
 
         f.write('\n')
         f.write("总房源数：" + str(house_count) + '\n')

@@ -1,0 +1,1130 @@
+筛选条件：Namespace(age=30, area=30, dixiashi=False, shoufu=105)
+
+地铁：13号线 总首付：104（万）
+        网页获取：{'floor': '高楼层/共30层', 'total_price': 245.0, 'area': 55.38, 'evaluation': 2205000, 'room': '1室0厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 15, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共30层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 55.38, 'evaluation': 208.25, 'room': '1室0厅', 'pure_shoufu': 109.7, 'tax_total': 2.1, 'house_age': 15, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 118.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104251388.html
+地铁：8号线 总首付：98（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 230.0, 'area': 94.55, 'evaluation': 2070000, 'room': '2室1厅', 'pure_shoufu': 954500, 'tax_total': 32775, 'house_age': 14, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 98.7275, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 94.55, 'evaluation': 195.5, 'room': '2室1厅', 'pure_shoufu': 103, 'tax_total': 3, 'house_age': 14, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 112.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105521303.html
+地铁：8号线 总首付：71（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 168.0, 'area': 62.96, 'evaluation': 1512000, 'room': '1室1厅', 'pure_shoufu': 697200, 'tax_total': 15960, 'house_age': 14, 'month_pay_debj': 5688.2361912447, 'month_pay_debx': 7289.1, 'total_shoufu': 71.316, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 4.6, 'total_price': 168, 'area': 62.96, 'evaluation': 142.8, 'room': '1室1厅', 'pure_shoufu': 75.2, 'tax_total': 1.5, 'house_age': 14, 'month_pay_debj': 6884, 'month_pay_debx': 5372, 'total_shoufu': 81.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105018725.html
+地铁：5号线 总首付：89（万）
+        网页获取：{'floor': '底层/共29层', 'total_price': 210.0, 'area': 51.41, 'evaluation': 1890000, 'room': '1室1厅', 'pure_shoufu': 871500, 'tax_total': 19950, 'house_age': 8, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 89.145, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 8, 'area': 51.41, 'floor': '底层/共29层', 'room': '1室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101103481769.html
+地铁：5号线 总首付：97（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 230.0, 'area': 46.82, 'evaluation': 2070000, 'room': '1室1厅', 'pure_shoufu': 954500, 'tax_total': 22580.39, 'house_age': 23, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.708039, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 46.82, 'evaluation': 195.5, 'room': '1室1厅', 'pure_shoufu': 103, 'tax_total': 4, 'house_age': 23, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 113.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103296217.html
+地铁：5号线 总首付：102（万）
+        网页获取：{'floor': '低楼层/共21层', 'total_price': 242.0, 'area': 40.77, 'evaluation': 2178000, 'room': '1室1厅', 'pure_shoufu': 1004300, 'tax_total': 22990, 'house_age': 28, 'month_pay_debj': 8193.768799293, 'month_pay_debx': 10499.775, 'total_shoufu': 102.729, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共21层', 'cost_jingjiren': 6.6, 'total_price': 242, 'area': 40.77, 'evaluation': 205.7, 'room': '1室1厅', 'pure_shoufu': 108.3, 'tax_total': 2.1, 'house_age': 28, 'month_pay_debj': 10524, 'month_pay_debx': 8285, 'total_shoufu': 116.99999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104518039.html
+地铁：5号线 总首付：101（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 239.0, 'area': 42.75, 'evaluation': 2151000, 'room': '1室1厅', 'pure_shoufu': 991850, 'tax_total': 22705, 'house_age': 24, 'month_pay_debj': 8092.1931530208, 'month_pay_debx': 10369.6125, 'total_shoufu': 101.4555, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.5, 'total_price': 239, 'area': 42.75, 'evaluation': 203.15, 'room': '1室1厅', 'pure_shoufu': 107, 'tax_total': 2.1, 'house_age': 24, 'month_pay_debj': 9794, 'month_pay_debx': 7643, 'total_shoufu': 115.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105260044.html
+地铁：5号线 总首付：102（万）
+        网页获取：{'floor': '顶层/共9层', 'total_price': 235.0, 'area': 50.36, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 45435.61, 'house_age': 24, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 102.068561, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共9层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 50.36, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 4.1, 'house_age': 24, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 115.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104418353.html
+地铁：5号线 总首付：102（万）
+        网页获取：{'floor': '中楼层/共9层', 'total_price': 235.0, 'area': 45.99, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 45367.44, 'house_age': 21, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 102.06174399999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共9层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 45.99, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 4.1, 'house_age': 21, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 115.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104947999.html
+地铁：1号线 总首付：71（万）
+        网页获取：{'floor': '中楼层/共14层', 'total_price': 168.0, 'area': 38.91, 'evaluation': 1512000, 'room': '1室0厅', 'pure_shoufu': 697200, 'tax_total': 15960, 'house_age': 15, 'month_pay_debj': 5688.2361912447, 'month_pay_debx': 7289.1, 'total_shoufu': 71.316, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共14层', 'cost_jingjiren': 4.6, 'total_price': 168, 'area': 38.91, 'evaluation': 142.8, 'room': '1室0厅', 'pure_shoufu': 75.2, 'tax_total': 2.9, 'house_age': 15, 'month_pay_debj': 6884, 'month_pay_debx': 5372, 'total_shoufu': 82.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104073587.html
+地铁：1号线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共14层', 'total_price': 225.0, 'area': 38.91, 'evaluation': 2025000, 'room': '1室0厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 15, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共14层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 38.91, 'evaluation': 191.25, 'room': '1室0厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 15, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102975954.html
+地铁：1号线 总首付：99（万）
+        网页获取：{'floor': '低楼层/共18层', 'total_price': 235.0, 'area': 46.84, 'evaluation': 2115000, 'room': '1室0厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 14, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 14, 'area': 46.84, 'floor': '低楼层/共18层', 'room': '1室0厅'}
+        链接：https://bj.lianjia.com/ershoufang/101104876059.html
+地铁：1号线 总首付：93（万）
+        网页获取：{'floor': '高楼层/共14层', 'total_price': 190.0, 'area': 38.91, 'evaluation': 1710000, 'room': '1室0厅', 'pure_shoufu': 788500, 'tax_total': 142950, 'house_age': 15, 'month_pay_debj': 6433.1242639077, 'month_pay_debx': 8243.625, 'total_shoufu': 93.145, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共14层', 'cost_jingjiren': 5.2, 'total_price': 190, 'area': 38.91, 'evaluation': 161.5, 'room': '1室0厅', 'pure_shoufu': 85.1, 'tax_total': 3.3, 'house_age': 15, 'month_pay_debj': 7786, 'month_pay_debx': 6076, 'total_shoufu': 93.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103564125.html
+地铁：1号线 总首付：101（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 240.0, 'area': 32.67, 'evaluation': 2160000, 'room': '1室0厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 28, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 32.67, 'evaluation': 204, 'room': '1室0厅', 'pure_shoufu': 107.4, 'tax_total': 2.1, 'house_age': 28, 'month_pay_debj': 10437, 'month_pay_debx': 8217, 'total_shoufu': 116.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105669426.html
+地铁：10号线 总首付：94（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 223.0, 'area': 33.79, 'evaluation': 2007000, 'room': '1室1厅', 'pure_shoufu': 925450, 'tax_total': 21185, 'house_age': 29, 'month_pay_debj': 7550.4563729022, 'month_pay_debx': 9675.4125, 'total_shoufu': 94.6635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.1, 'total_price': 223, 'area': 33.79, 'evaluation': 189.55, 'room': '1室1厅', 'pure_shoufu': 99.8, 'tax_total': 1.9, 'house_age': 29, 'month_pay_debj': 9920, 'month_pay_debx': 7838, 'total_shoufu': 107.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102977480.html
+地铁：10号线 总首付：101（万）
+        网页获取：{'floor': '低楼层/共16层', 'total_price': 240.0, 'area': 36.99, 'evaluation': 2160000, 'room': '1室1厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 8, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共16层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 36.99, 'evaluation': 204, 'room': '1室1厅', 'pure_shoufu': 107.4, 'tax_total': 4.1, 'house_age': 8, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 118.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104648015.html
+地铁：10号线 总首付：99（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 235.0, 'area': 43.4, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 23002.04, 'house_age': 27, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.825204, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 43.4, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 2.1, 'house_age': 27, 'month_pay_debj': 10006, 'month_pay_debx': 7851, 'total_shoufu': 113.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105022747.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 188.0, 'area': 41.97, 'evaluation': 1692000, 'room': '1室1厅', 'pure_shoufu': 780200, 'tax_total': 213340, 'house_age': 14, 'month_pay_debj': 6365.4071663929, 'month_pay_debx': 8156.85, 'total_shoufu': 99.354, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 5.1, 'total_price': 188, 'area': 41.97, 'evaluation': 159.8, 'room': '1室1厅', 'pure_shoufu': 84.2, 'tax_total': 11.5, 'house_age': 14, 'month_pay_debj': 7704, 'month_pay_debx': 6012, 'total_shoufu': 100.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104768131.html
+地铁：4号线大兴线 总首付：84（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 200.0, 'area': 44.86, 'evaluation': 1800000, 'room': '1室1厅', 'pure_shoufu': 830000, 'tax_total': 19578.69, 'house_age': 24, 'month_pay_debj': 6771.7097514818, 'month_pay_debx': 8677.5, 'total_shoufu': 84.95786899999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 5.4, 'total_price': 200, 'area': 44.86, 'evaluation': 170, 'room': '1室1厅', 'pure_shoufu': 89.5, 'tax_total': 12.2, 'house_age': 24, 'month_pay_debj': 8195, 'month_pay_debx': 6396, 'total_shoufu': 107.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105646432.html
+地铁：4号线大兴线 总首付：84（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 198.0, 'area': 44.86, 'evaluation': 1782000, 'room': '1室1厅', 'pure_shoufu': 821700, 'tax_total': 18810, 'house_age': 22, 'month_pay_debj': 6703.992653967, 'month_pay_debx': 8590.725, 'total_shoufu': 84.051, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 5.4, 'total_price': 198, 'area': 44.86, 'evaluation': 168.3, 'room': '1室1厅', 'pure_shoufu': 88.7, 'tax_total': 3.4, 'house_age': 22, 'month_pay_debj': 8113, 'month_pay_debx': 6332, 'total_shoufu': 97.50000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105352022.html
+地铁：4号线大兴线 总首付：78（万）
+        网页获取：{'floor': '中楼层/共19层', 'total_price': 185.0, 'area': 47.58, 'evaluation': 1665000, 'room': '1室0厅', 'pure_shoufu': 767750, 'tax_total': 17575, 'house_age': 13, 'month_pay_debj': 6263.8315201207, 'month_pay_debx': 8026.6875, 'total_shoufu': 78.5325, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共19层', 'cost_jingjiren': 5, 'total_price': 185, 'area': 47.58, 'evaluation': 157.25, 'room': '1室0厅', 'pure_shoufu': 82.8, 'tax_total': 11.3, 'house_age': 13, 'month_pay_debj': 7581, 'month_pay_debx': 5916, 'total_shoufu': 99.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105273257.html
+地铁：4号线大兴线 总首付：90（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 208.0, 'area': 40.07, 'evaluation': 1872000, 'room': '1室1厅', 'pure_shoufu': 863200, 'tax_total': 40036.9, 'house_age': 29, 'month_pay_debj': 7042.5781415411, 'month_pay_debx': 9024.6, 'total_shoufu': 90.32369, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.4, 'total_price': 198, 'area': 40.07, 'evaluation': 168.3, 'room': '1室1厅', 'pure_shoufu': 88.7, 'tax_total': 12.1, 'house_age': 29, 'month_pay_debj': 8808, 'month_pay_debx': 6959, 'total_shoufu': 106.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104510596.html
+地铁：4号线大兴线 总首付：84（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 200.0, 'area': 41.03, 'evaluation': 1800000, 'room': '1室1厅', 'pure_shoufu': 830000, 'tax_total': 19529.28, 'house_age': 22, 'month_pay_debj': 6771.7097514818, 'month_pay_debx': 8677.5, 'total_shoufu': 84.952928, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 5.4, 'total_price': 200, 'area': 41.03, 'evaluation': 170, 'room': '1室1厅', 'pure_shoufu': 89.5, 'tax_total': 3.5, 'house_age': 22, 'month_pay_debj': 8195, 'month_pay_debx': 6396, 'total_shoufu': 98.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104430482.html
+地铁：4号线大兴线 总首付：84（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 199.0, 'area': 59.56, 'evaluation': 1791000, 'room': '2室1厅', 'pure_shoufu': 825850, 'tax_total': 19673.32, 'house_age': 29, 'month_pay_debj': 6737.8512027244, 'month_pay_debx': 8634.1125, 'total_shoufu': 84.55233199999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.4, 'total_price': 199, 'area': 59.56, 'evaluation': 169.15, 'room': '2室1厅', 'pure_shoufu': 89.1, 'tax_total': 3.5, 'house_age': 29, 'month_pay_debj': 8853, 'month_pay_debx': 6994, 'total_shoufu': 98.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105545140.html
+地铁：4号线大兴线 总首付：86（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 199.0, 'area': 46.9, 'evaluation': 1791000, 'room': '1室1厅', 'pure_shoufu': 825850, 'tax_total': 38415.01, 'house_age': 27, 'month_pay_debj': 6737.8512027244, 'month_pay_debx': 8634.1125, 'total_shoufu': 86.426501, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.4, 'total_price': 199, 'area': 46.9, 'evaluation': 169.15, 'room': '1室1厅', 'pure_shoufu': 89.1, 'tax_total': 3.5, 'house_age': 27, 'month_pay_debj': 8473, 'month_pay_debx': 6649, 'total_shoufu': 98.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105288546.html
+地铁：4号线大兴线 总首付：86（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 203.0, 'area': 44.39, 'evaluation': 1827000, 'room': '1室1厅', 'pure_shoufu': 842450, 'tax_total': 19285, 'house_age': 27, 'month_pay_debj': 6873.2853977541, 'month_pay_debx': 8807.6625, 'total_shoufu': 86.1735, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.5, 'total_price': 203, 'area': 44.39, 'evaluation': 172.55, 'room': '1室1厅', 'pure_shoufu': 90.9, 'tax_total': 1.8, 'house_age': 27, 'month_pay_debj': 8643, 'month_pay_debx': 6782, 'total_shoufu': 98.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103172840.html
+地铁：4号线大兴线 总首付：94（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 198.0, 'area': 40.28, 'evaluation': 1782000, 'room': '1室1厅', 'pure_shoufu': 821700, 'tax_total': 127390, 'house_age': 27, 'month_pay_debj': 6703.992653967, 'month_pay_debx': 8590.725, 'total_shoufu': 94.909, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.4, 'total_price': 198, 'area': 40.28, 'evaluation': 168.3, 'room': '1室1厅', 'pure_shoufu': 88.7, 'tax_total': 3.4, 'house_age': 27, 'month_pay_debj': 8431, 'month_pay_debx': 6615, 'total_shoufu': 97.50000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104496060.html
+地铁：4号线大兴线 总首付：82（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 195.0, 'area': 58.6, 'evaluation': 1755000, 'room': '2室1厅', 'pure_shoufu': 809250, 'tax_total': 18525, 'house_age': 25, 'month_pay_debj': 6602.4170076948, 'month_pay_debx': 8460.5625, 'total_shoufu': 82.7775, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 5.3, 'total_price': 195, 'area': 58.6, 'evaluation': 165.75, 'room': '2室1厅', 'pure_shoufu': 87.3, 'tax_total': 3.4, 'house_age': 25, 'month_pay_debj': 7991, 'month_pay_debx': 6236, 'total_shoufu': 96.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105642909.html
+地铁：4号线大兴线 总首付：87（万）
+        网页获取：{'floor': '底层/共18层', 'total_price': 205.0, 'area': 56.9, 'evaluation': 1845000, 'room': '1室1厅', 'pure_shoufu': 850750, 'tax_total': 19475, 'house_age': 7, 'month_pay_debj': 6941.0024952689, 'month_pay_debx': 8894.4375, 'total_shoufu': 87.0225, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共18层', 'cost_jingjiren': 5.6, 'total_price': 205, 'area': 56.9, 'evaluation': 174.25, 'room': '1室1厅', 'pure_shoufu': 91.8, 'tax_total': 3.5, 'house_age': 7, 'month_pay_debj': 8400, 'month_pay_debx': 6555, 'total_shoufu': 100.89999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105597146.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 210.0, 'area': 46.87, 'evaluation': 1890000, 'room': '1室1厅', 'pure_shoufu': 871500, 'tax_total': 118750, 'house_age': 25, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 99.025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 5.7, 'total_price': 210, 'area': 46.87, 'evaluation': 178.5, 'room': '1室1厅', 'pure_shoufu': 94, 'tax_total': 12.8, 'house_age': 25, 'month_pay_debj': 8605, 'month_pay_debx': 6715, 'total_shoufu': 112.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104830648.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 210.0, 'area': 52.08, 'evaluation': 1890000, 'room': '1室1厅', 'pure_shoufu': 871500, 'tax_total': 118750, 'house_age': 25, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 99.025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.7, 'total_price': 210, 'area': 52.08, 'evaluation': 178.5, 'room': '1室1厅', 'pure_shoufu': 94, 'tax_total': 12.8, 'house_age': 25, 'month_pay_debj': 8605, 'month_pay_debx': 6715, 'total_shoufu': 112.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105696151.html
+地铁：4号线大兴线 总首付：88（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 209.0, 'area': 47.05, 'evaluation': 1881000, 'room': '1室1厅', 'pure_shoufu': 867350, 'tax_total': 19855, 'house_age': 27, 'month_pay_debj': 7076.4366902985, 'month_pay_debx': 9067.9875, 'total_shoufu': 88.7205, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.7, 'total_price': 209, 'area': 47.05, 'evaluation': 177.65, 'room': '1室1厅', 'pure_shoufu': 93.6, 'tax_total': 1.8, 'house_age': 27, 'month_pay_debj': 8899, 'month_pay_debx': 6983, 'total_shoufu': 101.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104007870.html
+地铁：4号线大兴线 总首付：87（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 205.0, 'area': 44.4, 'evaluation': 1845000, 'room': '1室1厅', 'pure_shoufu': 850750, 'tax_total': 19475, 'house_age': 25, 'month_pay_debj': 6941.0024952689, 'month_pay_debx': 8894.4375, 'total_shoufu': 87.0225, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 5.6, 'total_price': 205, 'area': 44.4, 'evaluation': 174.25, 'room': '1室1厅', 'pure_shoufu': 91.8, 'tax_total': 3.5, 'house_age': 25, 'month_pay_debj': 8400, 'month_pay_debx': 6555, 'total_shoufu': 100.89999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104939775.html
+地铁：4号线大兴线 总首付：88（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 203.0, 'area': 44.86, 'evaluation': 1827000, 'room': '1室1厅', 'pure_shoufu': 842450, 'tax_total': 39148.69, 'house_age': 26, 'month_pay_debj': 6873.2853977541, 'month_pay_debx': 8807.6625, 'total_shoufu': 88.159869, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.5, 'total_price': 203, 'area': 44.86, 'evaluation': 172.55, 'room': '1室1厅', 'pure_shoufu': 90.9, 'tax_total': 3.6, 'house_age': 26, 'month_pay_debj': 8474, 'month_pay_debx': 6630, 'total_shoufu': 100.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105012815.html
+地铁：4号线大兴线 总首付：88（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 208.0, 'area': 61.26, 'evaluation': 1872000, 'room': '2室1厅', 'pure_shoufu': 863200, 'tax_total': 20550.25, 'house_age': 29, 'month_pay_debj': 7042.5781415411, 'month_pay_debx': 9024.6, 'total_shoufu': 88.375025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 5.7, 'total_price': 208, 'area': 61.26, 'evaluation': 176.8, 'room': '2室1厅', 'pure_shoufu': 93.1, 'tax_total': 1.9, 'house_age': 29, 'month_pay_debj': 9253, 'month_pay_debx': 7311, 'total_shoufu': 100.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104378390.html
+地铁：4号线大兴线 总首付：89（万）
+        网页获取：{'floor': '顶层/共24层', 'total_price': 210.0, 'area': 33.55, 'evaluation': 1890000, 'room': '1室0厅', 'pure_shoufu': 871500, 'tax_total': 19950, 'house_age': 17, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 89.145, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共24层', 'cost_jingjiren': 5.7, 'total_price': 210, 'area': 33.55, 'evaluation': 178.5, 'room': '1室0厅', 'pure_shoufu': 94, 'tax_total': 3.6, 'house_age': 17, 'month_pay_debj': 8605, 'month_pay_debx': 6715, 'total_shoufu': 103.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105647706.html
+地铁：4号线大兴线 总首付：89（万）
+        网页获取：{'floor': '高楼层/共7层', 'total_price': 210.0, 'area': 51.92, 'evaluation': 1890000, 'room': '1室1厅', 'pure_shoufu': 871500, 'tax_total': 20619.76, 'house_age': 22, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 89.211976, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共7层', 'cost_jingjiren': 5.7, 'total_price': 210, 'area': 51.92, 'evaluation': 178.5, 'room': '1室1厅', 'pure_shoufu': 94, 'tax_total': 3.7, 'house_age': 22, 'month_pay_debj': 8605, 'month_pay_debx': 6715, 'total_shoufu': 103.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104017668.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '低楼层/共18层', 'total_price': 215.0, 'area': 61.95, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 121577.37, 'house_age': 7, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 101.382737, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共18层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 61.95, 'evaluation': 182.75, 'room': '1室1厅', 'pure_shoufu': 96.3, 'tax_total': 13.1, 'house_age': 7, 'month_pay_debj': 8810, 'month_pay_debx': 6875, 'total_shoufu': 115.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103927566.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '低楼层/共18层', 'total_price': 215.0, 'area': 63.51, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 121577.37, 'house_age': 7, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 101.382737, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共18层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 63.51, 'evaluation': 182.75, 'room': '1室1厅', 'pure_shoufu': 96.3, 'tax_total': 13.1, 'house_age': 7, 'month_pay_debj': 8810, 'month_pay_debx': 6875, 'total_shoufu': 115.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103927553.html
+地铁：4号线大兴线 总首付：100（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 219.0, 'area': 46.28, 'evaluation': 1971000, 'room': '1室1厅', 'pure_shoufu': 908850, 'tax_total': 95295, 'house_age': 24, 'month_pay_debj': 7415.0221778726, 'month_pay_debx': 9501.8625, 'total_shoufu': 100.4145, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 6, 'total_price': 219, 'area': 46.28, 'evaluation': 186.15, 'room': '1室1厅', 'pure_shoufu': 98.1, 'tax_total': 3.8, 'house_age': 24, 'month_pay_debj': 8974, 'month_pay_debx': 7003, 'total_shoufu': 107.89999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104663996.html
+地铁：4号线大兴线 总首付：91（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 215.0, 'area': 46.99, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 20425, 'house_age': 26, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 91.2675, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 46.99, 'evaluation': 182.75, 'room': '1室1厅', 'pure_shoufu': 96.3, 'tax_total': 1.9, 'house_age': 26, 'month_pay_debj': 8975, 'month_pay_debx': 7022, 'total_shoufu': 104.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103688104.html
+地铁：4号线大兴线 总首付：93（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 220.0, 'area': 57.29, 'evaluation': 1980000, 'room': '2室1厅', 'pure_shoufu': 913000, 'tax_total': 20900, 'house_age': 26, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.39, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 57.29, 'evaluation': 187, 'room': '2室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.8, 'house_age': 26, 'month_pay_debj': 9184, 'month_pay_debx': 7185, 'total_shoufu': 108.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105197446.html
+地铁：4号线大兴线 总首付：92（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 218.0, 'area': 44.86, 'evaluation': 1962000, 'room': '1室1厅', 'pure_shoufu': 904700, 'tax_total': 20710, 'house_age': 24, 'month_pay_debj': 7381.1636291152, 'month_pay_debx': 9458.475, 'total_shoufu': 92.541, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 5.9, 'total_price': 218, 'area': 44.86, 'evaluation': 185.3, 'room': '1室1厅', 'pure_shoufu': 97.6, 'tax_total': 1.9, 'house_age': 24, 'month_pay_debj': 8933, 'month_pay_debx': 6971, 'total_shoufu': 105.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104633567.html
+地铁：4号线大兴线 总首付：103（万）
+        网页获取：{'floor': '高楼层/共18层', 'total_price': 220.0, 'area': 64.12, 'evaluation': 1980000, 'room': '1室1厅', 'pure_shoufu': 913000, 'tax_total': 124404.75, 'house_age': 7, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 103.740475, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共18层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 64.12, 'evaluation': 187, 'room': '1室1厅', 'pure_shoufu': 98.5, 'tax_total': 13.4, 'house_age': 7, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 117.9, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105379671.html
+地铁：4号线大兴线 总首付：92（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 218.0, 'area': 46.55, 'evaluation': 1962000, 'room': '1室1厅', 'pure_shoufu': 904700, 'tax_total': 21310.49, 'house_age': 24, 'month_pay_debj': 7381.1636291152, 'month_pay_debx': 9458.475, 'total_shoufu': 92.601049, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 5.9, 'total_price': 218, 'area': 46.55, 'evaluation': 185.3, 'room': '1室1厅', 'pure_shoufu': 97.6, 'tax_total': 2, 'house_age': 24, 'month_pay_debj': 8933, 'month_pay_debx': 6971, 'total_shoufu': 105.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105553409.html
+地铁：4号线大兴线 总首付：92（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 218.0, 'area': 46.28, 'evaluation': 1962000, 'room': '1室1厅', 'pure_shoufu': 904700, 'tax_total': 20710, 'house_age': 24, 'month_pay_debj': 7381.1636291152, 'month_pay_debx': 9458.475, 'total_shoufu': 92.541, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 5.9, 'total_price': 218, 'area': 46.28, 'evaluation': 185.3, 'room': '1室1厅', 'pure_shoufu': 97.6, 'tax_total': 3.8, 'house_age': 24, 'month_pay_debj': 8933, 'month_pay_debx': 6971, 'total_shoufu': 107.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104278675.html
+地铁：4号线大兴线 总首付：93（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 220.0, 'area': 46.64, 'evaluation': 1980000, 'room': '1室1厅', 'pure_shoufu': 913000, 'tax_total': 20900, 'house_age': 25, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.39, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 46.64, 'evaluation': 187, 'room': '1室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.8, 'house_age': 25, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 108.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104084604.html
+地铁：4号线大兴线 总首付：93（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 220.0, 'area': 71.72, 'evaluation': 1980000, 'room': '2室1厅', 'pure_shoufu': 913000, 'tax_total': 20900, 'house_age': 23, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.39, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 71.72, 'evaluation': 187, 'room': '2室1厅', 'pure_shoufu': 98.5, 'tax_total': 1.9, 'house_age': 23, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 106.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105248466.html
+地铁：4号线大兴线 总首付：93（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 220.0, 'area': 46.28, 'evaluation': 1980000, 'room': '1室1厅', 'pure_shoufu': 913000, 'tax_total': 20900, 'house_age': 24, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.39, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 24, 'area': 46.28, 'floor': '低楼层/共6层', 'room': '1室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101105396136.html
+地铁：4号线大兴线 总首付：103（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 215.0, 'area': 46.87, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 141634.37, 'house_age': 25, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 103.388437, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 46.87, 'evaluation': 182.75, 'room': '1室1厅', 'pure_shoufu': 96.3, 'tax_total': 13.2, 'house_age': 25, 'month_pay_debj': 8810, 'month_pay_debx': 6875, 'total_shoufu': 115.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105595983.html
+地铁：4号线大兴线 总首付：95（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 225.0, 'area': 55.39, 'evaluation': 2025000, 'room': '2室1厅', 'pure_shoufu': 933750, 'tax_total': 22089.53, 'house_age': 26, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.58395300000001, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 55.39, 'evaluation': 191.25, 'room': '2室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 26, 'month_pay_debj': 9393, 'month_pay_debx': 7349, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103150019.html
+地铁：4号线大兴线 总首付：96（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 226.0, 'area': 55.01, 'evaluation': 2034000, 'room': '2室1厅', 'pure_shoufu': 937900, 'tax_total': 22179.62, 'house_age': 27, 'month_pay_debj': 7652.0320191745, 'month_pay_debx': 9805.575, 'total_shoufu': 96.007962, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.2, 'total_price': 226, 'area': 55.01, 'evaluation': 192.1, 'room': '2室1厅', 'pure_shoufu': 101.2, 'tax_total': 4, 'house_age': 27, 'month_pay_debj': 9623, 'month_pay_debx': 7551, 'total_shoufu': 111.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104644350.html
+地铁：4号线大兴线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 225.0, 'area': 53.41, 'evaluation': 2025000, 'room': '2室1厅', 'pure_shoufu': 933750, 'tax_total': 22063.98, 'house_age': 29, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.581398, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 53.41, 'evaluation': 191.25, 'room': '2室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 29, 'month_pay_debj': 10009, 'month_pay_debx': 7908, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104318612.html
+地铁：4号线大兴线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 225.0, 'area': 51.62, 'evaluation': 2025000, 'room': '1室1厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 26, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 51.62, 'evaluation': 191.25, 'room': '1室1厅', 'pure_shoufu': 100.7, 'tax_total': 2, 'house_age': 26, 'month_pay_debj': 9393, 'month_pay_debx': 7349, 'total_shoufu': 108.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105226104.html
+地铁：4号线大兴线 总首付：93（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 220.0, 'area': 53.41, 'evaluation': 1980000, 'room': '2室1厅', 'pure_shoufu': 913000, 'tax_total': 21588.98, 'house_age': 29, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.458898, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 53.41, 'evaluation': 187, 'room': '2室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.9, 'house_age': 29, 'month_pay_debj': 9787, 'month_pay_debx': 7732, 'total_shoufu': 108.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105041270.html
+地铁：4号线大兴线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 225.0, 'area': 47.38, 'evaluation': 2025000, 'room': '1室1厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 26, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 47.38, 'evaluation': 191.25, 'room': '1室1厅', 'pure_shoufu': 100.7, 'tax_total': 2, 'house_age': 26, 'month_pay_debj': 9393, 'month_pay_debx': 7349, 'total_shoufu': 108.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104235665.html
+地铁：4号线大兴线 总首付：95（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 225.0, 'area': 60.06, 'evaluation': 2025000, 'room': '2室1厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 25, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 60.06, 'evaluation': 191.25, 'room': '2室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 25, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105169310.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 225.0, 'area': 63.65, 'evaluation': 2025000, 'room': '2室1厅', 'pure_shoufu': 933750, 'tax_total': 64125, 'house_age': 24, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 99.7875, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 63.65, 'evaluation': 191.25, 'room': '2室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 24, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103867868.html
+地铁：4号线大兴线 总首付：93（万）
+        网页获取：{'floor': '中楼层/共5层', 'total_price': 220.0, 'area': 46.28, 'evaluation': 1980000, 'room': '1室1厅', 'pure_shoufu': 913000, 'tax_total': 21497.01, 'house_age': 24, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.449701, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共5层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 46.28, 'evaluation': 187, 'room': '1室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.8, 'house_age': 24, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 108.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104340477.html
+地铁：4号线大兴线 总首付：95（万）
+        网页获取：{'floor': '高楼层/共24层', 'total_price': 225.0, 'area': 33.55, 'evaluation': 2025000, 'room': '1室0厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 17, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共24层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 33.55, 'evaluation': 191.25, 'room': '1室0厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 17, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102966158.html
+地铁：4号线大兴线 总首付：97（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 230.0, 'area': 53.42, 'evaluation': 2070000, 'room': '1室1厅', 'pure_shoufu': 954500, 'tax_total': 21850, 'house_age': 29, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 53.42, 'evaluation': 195.5, 'room': '1室1厅', 'pure_shoufu': 103, 'tax_total': 2, 'house_age': 29, 'month_pay_debj': 10232, 'month_pay_debx': 8084, 'total_shoufu': 111.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104607551.html
+地铁：4号线大兴线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共24层', 'total_price': 226.0, 'area': 33.61, 'evaluation': 2034000, 'room': '1室0厅', 'pure_shoufu': 937900, 'tax_total': 21470, 'house_age': 17, 'month_pay_debj': 7652.0320191745, 'month_pay_debx': 9805.575, 'total_shoufu': 95.937, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共24层', 'cost_jingjiren': 6.2, 'total_price': 226, 'area': 33.61, 'evaluation': 192.1, 'room': '1室0厅', 'pure_shoufu': 101.2, 'tax_total': 3.9, 'house_age': 17, 'month_pay_debj': 9261, 'month_pay_debx': 7227, 'total_shoufu': 111.30000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104466929.html
+地铁：4号线大兴线 总首付：96（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 228.0, 'area': 46.64, 'evaluation': 2052000, 'room': '1室1厅', 'pure_shoufu': 946200, 'tax_total': 21660, 'house_age': 25, 'month_pay_debj': 7719.7491166893, 'month_pay_debx': 9892.35, 'total_shoufu': 96.786, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 6.2, 'total_price': 228, 'area': 46.64, 'evaluation': 193.8, 'room': '1室1厅', 'pure_shoufu': 102.1, 'tax_total': 3.9, 'house_age': 25, 'month_pay_debj': 9343, 'month_pay_debx': 7291, 'total_shoufu': 112.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104123694.html
+地铁：4号线大兴线 总首付：97（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 230.0, 'area': 55.56, 'evaluation': 2070000, 'room': '1室1厅', 'pure_shoufu': 954500, 'tax_total': 21850, 'house_age': 25, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 55.56, 'evaluation': 195.5, 'room': '1室1厅', 'pure_shoufu': 103, 'tax_total': 4, 'house_age': 25, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 113.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105050321.html
+地铁：4号线大兴线 总首付：96（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 228.0, 'area': 62.5, 'evaluation': 2052000, 'room': '2室1厅', 'pure_shoufu': 946200, 'tax_total': 22466.25, 'house_age': 26, 'month_pay_debj': 7719.7491166893, 'month_pay_debx': 9892.35, 'total_shoufu': 96.866625, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.2, 'total_price': 228, 'area': 62.5, 'evaluation': 193.8, 'room': '2室1厅', 'pure_shoufu': 102.1, 'tax_total': 4, 'house_age': 26, 'month_pay_debj': 9518, 'month_pay_debx': 7447, 'total_shoufu': 112.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105045922.html
+地铁：4号线大兴线 总首付：97（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 230.0, 'area': 70.61, 'evaluation': 2070000, 'room': '2室2厅', 'pure_shoufu': 954500, 'tax_total': 22760.86, 'house_age': 22, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.726086, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 70.61, 'evaluation': 195.5, 'room': '2室2厅', 'pure_shoufu': 103, 'tax_total': 2.1, 'house_age': 22, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 111.39999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105557920.html
+地铁：4号线大兴线 总首付：97（万）
+        网页获取：{'floor': '高楼层/共24层', 'total_price': 230.0, 'area': 33.55, 'evaluation': 2070000, 'room': '1室0厅', 'pure_shoufu': 954500, 'tax_total': 21850, 'house_age': 17, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共24层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 33.55, 'evaluation': 195.5, 'room': '1室0厅', 'pure_shoufu': 103, 'tax_total': 4, 'house_age': 17, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 113.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104183507.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 235.0, 'area': 58.7, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 27, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 58.7, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 2, 'house_age': 27, 'month_pay_debj': 10006, 'month_pay_debx': 7851, 'total_shoufu': 113.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105017271.html
+地铁：4号线大兴线 总首付：102（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 235.0, 'area': 60.38, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 45428.9, 'house_age': 28, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 102.06789, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 60.38, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 4.1, 'house_age': 28, 'month_pay_debj': 10220, 'month_pay_debx': 8045, 'total_shoufu': 115.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105134189.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 235.0, 'area': 55.64, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 29, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 55.64, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 2, 'house_age': 29, 'month_pay_debj': 10454, 'month_pay_debx': 8260, 'total_shoufu': 113.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105186874.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 234.0, 'area': 38.95, 'evaluation': 2106000, 'room': '1室1厅', 'pure_shoufu': 971100, 'tax_total': 44962.45, 'house_age': 27, 'month_pay_debj': 7922.9004092337, 'month_pay_debx': 10152.675, 'total_shoufu': 101.606245, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 6.4, 'total_price': 234, 'area': 38.95, 'evaluation': 198.9, 'room': '1室1厅', 'pure_shoufu': 104.8, 'tax_total': 4.1, 'house_age': 27, 'month_pay_debj': 9963, 'month_pay_debx': 7818, 'total_shoufu': 115.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104656510.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '中楼层/共18层', 'total_price': 235.0, 'area': 64.61, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 7, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共18层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 64.61, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 14.3, 'house_age': 7, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 125.9, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105537764.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 235.0, 'area': 61.0, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 25, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 61.0, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 4, 'house_age': 25, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 115.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105683413.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 235.0, 'area': 55.39, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 26, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 55.39, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 2, 'house_age': 26, 'month_pay_debj': 9810, 'month_pay_debx': 7675, 'total_shoufu': 113.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105180093.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 235.0, 'area': 55.44, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 27, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 55.44, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 4, 'house_age': 27, 'month_pay_debj': 10006, 'month_pay_debx': 7851, 'total_shoufu': 115.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103730699.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 235.0, 'area': 50.24, 'evaluation': 2115000, 'room': '1室0厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 25, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 50.24, 'evaluation': 199.75, 'room': '1室0厅', 'pure_shoufu': 105.2, 'tax_total': 4, 'house_age': 25, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 115.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105747797.html
+地铁：4号线大兴线 总首付：102（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 235.0, 'area': 61.26, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 45440.25, 'house_age': 29, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 102.069025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 61.26, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 4.1, 'house_age': 29, 'month_pay_debj': 10454, 'month_pay_debx': 8260, 'total_shoufu': 115.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104574862.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '高楼层/共24层', 'total_price': 235.0, 'area': 33.55, 'evaluation': 2115000, 'room': '1室0厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 17, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共24层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 33.55, 'evaluation': 199.75, 'room': '1室0厅', 'pure_shoufu': 105.2, 'tax_total': 4, 'house_age': 17, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 115.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102929661.html
+地铁：4号线大兴线 总首付：99（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 235.0, 'area': 66.77, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 25, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 66.77, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 4, 'house_age': 25, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 115.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104533696.html
+地铁：4号线大兴线 总首付：104（万）
+        网页获取：{'floor': '低楼层/共15层', 'total_price': 231.0, 'area': 52.92, 'evaluation': 2079000, 'room': '1室1厅', 'pure_shoufu': 958650, 'tax_total': 87780, 'house_age': 7, 'month_pay_debj': 7821.3247629615, 'month_pay_debx': 10022.5125, 'total_shoufu': 104.643, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 7, 'area': 52.92, 'floor': '低楼层/共15层', 'room': '1室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101104372711.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 238.0, 'area': 61.26, 'evaluation': 2142000, 'room': '2室1厅', 'pure_shoufu': 987700, 'tax_total': 22610, 'house_age': 29, 'month_pay_debj': 8058.3346042634, 'month_pay_debx': 10326.225, 'total_shoufu': 101.031, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.5, 'total_price': 238, 'area': 61.26, 'evaluation': 202.3, 'room': '2室1厅', 'pure_shoufu': 106.6, 'tax_total': 2.1, 'house_age': 29, 'month_pay_debj': 10587, 'month_pay_debx': 8365, 'total_shoufu': 115.19999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104550001.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 239.0, 'area': 52.71, 'evaluation': 2151000, 'room': '1室1厅', 'pure_shoufu': 991850, 'tax_total': 22705, 'house_age': 25, 'month_pay_debj': 8092.1931530208, 'month_pay_debx': 10369.6125, 'total_shoufu': 101.4555, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 6.5, 'total_price': 239, 'area': 52.71, 'evaluation': 203.15, 'room': '1室1厅', 'pure_shoufu': 107, 'tax_total': 2.1, 'house_age': 25, 'month_pay_debj': 9794, 'month_pay_debx': 7643, 'total_shoufu': 115.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105081906.html
+地铁：4号线大兴线 总首付：100（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 237.0, 'area': 60.98, 'evaluation': 2133000, 'room': '2室1厅', 'pure_shoufu': 983550, 'tax_total': 23301.64, 'house_age': 28, 'month_pay_debj': 8024.476055506, 'month_pay_debx': 10282.8375, 'total_shoufu': 100.685164, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 237, 'area': 60.98, 'evaluation': 201.45, 'room': '2室1厅', 'pure_shoufu': 106.1, 'tax_total': 2.1, 'house_age': 28, 'month_pay_debj': 10307, 'month_pay_debx': 8114, 'total_shoufu': 114.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105177118.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 239.0, 'area': 60.98, 'evaluation': 2151000, 'room': '2室1厅', 'pure_shoufu': 991850, 'tax_total': 22705, 'house_age': 28, 'month_pay_debj': 8092.1931530208, 'month_pay_debx': 10369.6125, 'total_shoufu': 101.4555, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.5, 'total_price': 239, 'area': 60.98, 'evaluation': 203.15, 'room': '2室1厅', 'pure_shoufu': 107, 'tax_total': 4.1, 'house_age': 28, 'month_pay_debj': 10394, 'month_pay_debx': 8182, 'total_shoufu': 117.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104854915.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 238.0, 'area': 60.81, 'evaluation': 2142000, 'room': '2室1厅', 'pure_shoufu': 987700, 'tax_total': 23394.44, 'house_age': 28, 'month_pay_debj': 8058.3346042634, 'month_pay_debx': 10326.225, 'total_shoufu': 101.109444, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.5, 'total_price': 238, 'area': 60.81, 'evaluation': 202.3, 'room': '2室1厅', 'pure_shoufu': 106.6, 'tax_total': 2.2, 'house_age': 28, 'month_pay_debj': 10350, 'month_pay_debx': 8148, 'total_shoufu': 115.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104191171.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 238.0, 'area': 61.08, 'evaluation': 2142000, 'room': '2室1厅', 'pure_shoufu': 987700, 'tax_total': 22610, 'house_age': 28, 'month_pay_debj': 8058.3346042634, 'month_pay_debx': 10326.225, 'total_shoufu': 101.031, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.5, 'total_price': 238, 'area': 61.08, 'evaluation': 202.3, 'room': '2室1厅', 'pure_shoufu': 106.6, 'tax_total': 2.1, 'house_age': 28, 'month_pay_debj': 10350, 'month_pay_debx': 8148, 'total_shoufu': 115.19999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102977502.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '高楼层/共30层', 'total_price': 238.0, 'area': 30.34, 'evaluation': 2142000, 'room': '1室0厅', 'pure_shoufu': 987700, 'tax_total': 22610, 'house_age': 16, 'month_pay_debj': 8058.3346042634, 'month_pay_debx': 10326.225, 'total_shoufu': 101.031, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共30层', 'cost_jingjiren': 6.5, 'total_price': 238, 'area': 30.34, 'evaluation': 202.3, 'room': '1室0厅', 'pure_shoufu': 106.6, 'tax_total': 2.1, 'house_age': 16, 'month_pay_debj': 9753, 'month_pay_debx': 7611, 'total_shoufu': 115.19999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104299523.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 238.0, 'area': 59.48, 'evaluation': 2142000, 'room': '2室1厅', 'pure_shoufu': 987700, 'tax_total': 22610, 'house_age': 28, 'month_pay_debj': 8058.3346042634, 'month_pay_debx': 10326.225, 'total_shoufu': 101.031, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 6.5, 'total_price': 238, 'area': 59.48, 'evaluation': 202.3, 'room': '2室1厅', 'pure_shoufu': 106.6, 'tax_total': 2.1, 'house_age': 28, 'month_pay_debj': 10350, 'month_pay_debx': 8148, 'total_shoufu': 115.19999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105494355.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 240.0, 'area': 62.22, 'evaluation': 2160000, 'room': '2室1厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 25, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 62.22, 'evaluation': 204, 'room': '2室1厅', 'pure_shoufu': 107.4, 'tax_total': 14.6, 'house_age': 25, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 128.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105353106.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '底层/共10层', 'total_price': 240.0, 'area': 34.66, 'evaluation': 2160000, 'room': '1室0厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 14, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共10层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 34.66, 'evaluation': 204, 'room': '1室0厅', 'pure_shoufu': 107.4, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 116.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104690400.html
+地铁：4号线大兴线 总首付：100（万）
+        网页获取：{'floor': '中楼层/共4层', 'total_price': 236.0, 'area': 57.53, 'evaluation': 2124000, 'room': '2室1厅', 'pure_shoufu': 979400, 'tax_total': 22420, 'house_age': 29, 'month_pay_debj': 7990.6175067486, 'month_pay_debx': 10239.45, 'total_shoufu': 100.182, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共4层', 'cost_jingjiren': 6.4, 'total_price': 236, 'area': 57.53, 'evaluation': 200.6, 'room': '2室1厅', 'pure_shoufu': 105.7, 'tax_total': 4.1, 'house_age': 29, 'month_pay_debj': 10498, 'month_pay_debx': 8295, 'total_shoufu': 116.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105643984.html
+地铁：4号线大兴线 总首付：104（万）
+        网页获取：{'floor': '高楼层/共18层', 'total_price': 245.0, 'area': 44.3, 'evaluation': 2205000, 'room': '1室1厅', 'pure_shoufu': 1016750, 'tax_total': 23966.08, 'house_age': 21, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.071608, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共18层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 44.3, 'evaluation': 208.25, 'room': '1室1厅', 'pure_shoufu': 109.7, 'tax_total': 2.2, 'house_age': 21, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 118.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104699636.html
+地铁：4号线大兴线 总首付：102（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 242.0, 'area': 60.98, 'evaluation': 2178000, 'room': '2室1厅', 'pure_shoufu': 1004300, 'tax_total': 22990, 'house_age': 28, 'month_pay_debj': 8193.768799293, 'month_pay_debx': 10499.775, 'total_shoufu': 102.729, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.6, 'total_price': 242, 'area': 60.98, 'evaluation': 205.7, 'room': '2室1厅', 'pure_shoufu': 108.3, 'tax_total': 2.1, 'house_age': 28, 'month_pay_debj': 10524, 'month_pay_debx': 8285, 'total_shoufu': 116.99999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104084607.html
+地铁：4号线大兴线 总首付：103（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 243.0, 'area': 44.02, 'evaluation': 2187000, 'room': '1室1厅', 'pure_shoufu': 1008450, 'tax_total': 23085, 'house_age': 27, 'month_pay_debj': 8227.6273480504, 'month_pay_debx': 10543.1625, 'total_shoufu': 103.1535, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.6, 'total_price': 243, 'area': 44.02, 'evaluation': 206.55, 'room': '1室1厅', 'pure_shoufu': 108.8, 'tax_total': 2.1, 'house_age': 27, 'month_pay_debj': 10347, 'month_pay_debx': 8119, 'total_shoufu': 117.49999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105077475.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 240.0, 'area': 49.12, 'evaluation': 2160000, 'room': '1室1厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 22, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 49.12, 'evaluation': 204, 'room': '1室1厅', 'pure_shoufu': 107.4, 'tax_total': 2.1, 'house_age': 22, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 116.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103002512.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 240.0, 'area': 58.64, 'evaluation': 2160000, 'room': '2室1厅', 'pure_shoufu': 996000, 'tax_total': 23556.45, 'house_age': 25, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.95564499999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 58.64, 'evaluation': 204, 'room': '2室1厅', 'pure_shoufu': 107.4, 'tax_total': 4.2, 'house_age': 25, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 118.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104170622.html
+地铁：4号线大兴线 总首付：103（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 243.0, 'area': 52.49, 'evaluation': 2187000, 'room': '2室1厅', 'pure_shoufu': 1008450, 'tax_total': 23762.12, 'house_age': 27, 'month_pay_debj': 8227.6273480504, 'month_pay_debx': 10543.1625, 'total_shoufu': 103.221212, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 6.6, 'total_price': 243, 'area': 52.49, 'evaluation': 206.55, 'room': '2室1厅', 'pure_shoufu': 108.8, 'tax_total': 2.2, 'house_age': 27, 'month_pay_debj': 10347, 'month_pay_debx': 8119, 'total_shoufu': 117.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105026862.html
+地铁：4号线大兴线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共10层', 'total_price': 245.0, 'area': 34.82, 'evaluation': 2205000, 'room': '1室0厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 14, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共10层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 34.82, 'evaluation': 208.25, 'room': '1室0厅', 'pure_shoufu': 109.7, 'tax_total': 4.2, 'house_age': 14, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 120.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103545808.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 240.0, 'area': 61.05, 'evaluation': 2160000, 'room': '2室1厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 27, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 61.05, 'evaluation': 204, 'room': '2室1厅', 'pure_shoufu': 107.4, 'tax_total': 4.1, 'house_age': 27, 'month_pay_debj': 10219, 'month_pay_debx': 8018, 'total_shoufu': 118.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104765848.html
+地铁：4号线大兴线 总首付：101（万）
+        网页获取：{'floor': '低楼层/共18层', 'total_price': 240.0, 'area': 64.62, 'evaluation': 2160000, 'room': '1室1厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 7, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共18层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 64.62, 'evaluation': 204, 'room': '1室1厅', 'pure_shoufu': 107.4, 'tax_total': 4.1, 'house_age': 7, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 118.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104715743.html
+地铁：4号线大兴线 总首付：104（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 245.0, 'area': 60.63, 'evaluation': 2205000, 'room': '2室1厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 23, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 60.63, 'evaluation': 208.25, 'room': '2室1厅', 'pure_shoufu': 109.7, 'tax_total': 2.1, 'house_age': 23, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 118.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105732168.html
+地铁：4号线大兴线 总首付：91（万）
+        网页获取：{'floor': '底层/共18层', 'total_price': 215.0, 'area': 64.61, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 20425, 'house_age': 7, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 91.2675, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共18层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 64.61, 'evaluation': 208.25, 'room': '1室1厅', 'pure_shoufu': 109.7, 'tax_total': 4.2, 'house_age': 7, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 120.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105597195.html
+地铁：4号线大兴线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共14层', 'total_price': 246.0, 'area': 62.39, 'evaluation': 2214000, 'room': '1室1厅', 'pure_shoufu': 1020900, 'tax_total': 23370, 'house_age': 7, 'month_pay_debj': 8329.2029943227, 'month_pay_debx': 10673.325, 'total_shoufu': 104.427, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共14层', 'cost_jingjiren': 6.7, 'total_price': 246, 'area': 62.39, 'evaluation': 209.1, 'room': '1室1厅', 'pure_shoufu': 110.1, 'tax_total': 2.1, 'house_age': 7, 'month_pay_debj': 10080, 'month_pay_debx': 7866, 'total_shoufu': 118.89999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104014585.html
+地铁：4号线大兴线 总首付：104（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 245.0, 'area': 53.73, 'evaluation': 2205000, 'room': '1室1厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 27, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 53.73, 'evaluation': 208.25, 'room': '1室1厅', 'pure_shoufu': 109.7, 'tax_total': 2.1, 'house_age': 27, 'month_pay_debj': 10432, 'month_pay_debx': 8186, 'total_shoufu': 118.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104809887.html
+地铁：4号线大兴线 总首付：104（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 246.0, 'area': 59.21, 'evaluation': 2214000, 'room': '2室1厅', 'pure_shoufu': 1020900, 'tax_total': 24133.8, 'house_age': 29, 'month_pay_debj': 8329.2029943227, 'month_pay_debx': 10673.325, 'total_shoufu': 104.50338, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 6.7, 'total_price': 246, 'area': 59.21, 'evaluation': 209.1, 'room': '2室1厅', 'pure_shoufu': 110.1, 'tax_total': 2.2, 'house_age': 29, 'month_pay_debj': 10943, 'month_pay_debx': 8646, 'total_shoufu': 119.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104192101.html
+地铁：9号线 总首付：97（万）
+        网页获取：{'floor': '高楼层/共21层', 'total_price': 236.0, 'area': 42.07, 'evaluation': 2124000, 'room': '1室1厅', 'pure_shoufu': 979400, 'tax_total': 0, 'house_age': 7, 'month_pay_debj': 7990.6175067486, 'month_pay_debx': 10239.45, 'total_shoufu': 97.94, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 7, 'area': 42.07, 'floor': '高楼层/共21层', 'room': '1室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101104765615.html
+地铁：9号线 总首付：88（万）
+        网页获取：{'floor': '高楼层/共23层', 'total_price': 208.0, 'area': 34.93, 'evaluation': 1872000, 'room': '1室1厅', 'pure_shoufu': 863200, 'tax_total': 19760, 'house_age': 11, 'month_pay_debj': 7042.5781415411, 'month_pay_debx': 9024.6, 'total_shoufu': 88.296, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共23层', 'cost_jingjiren': 5.7, 'total_price': 208, 'area': 34.93, 'evaluation': 176.8, 'room': '1室1厅', 'pure_shoufu': 93.1, 'tax_total': 3.6, 'house_age': 11, 'month_pay_debj': 8523, 'month_pay_debx': 6651, 'total_shoufu': 102.39999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105468448.html
+地铁：9号线 总首付：104（万）
+        网页获取：{'floor': '低楼层/共20层', 'total_price': 245.0, 'area': 37.1, 'evaluation': 2205000, 'room': '1室0厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 7, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共20层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 37.1, 'evaluation': 208.25, 'room': '1室0厅', 'pure_shoufu': 109.7, 'tax_total': 2.1, 'house_age': 7, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 118.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105033559.html
+地铁：9号线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共23层', 'total_price': 225.0, 'area': 34.93, 'evaluation': 2025000, 'room': '1室0厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 11, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共23层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 34.93, 'evaluation': 191.25, 'room': '1室0厅', 'pure_shoufu': 100.7, 'tax_total': 2, 'house_age': 11, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 108.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104603083.html
+地铁：9号线 总首付：102（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 235.0, 'area': 43.0, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 45320.8, 'house_age': 27, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 102.05708, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 43.0, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 4.1, 'house_age': 27, 'month_pay_debj': 10006, 'month_pay_debx': 7851, 'total_shoufu': 115.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103462573.html
+地铁：9号线 总首付：97（万）
+        网页获取：{'floor': '高楼层/共31层', 'total_price': 230.0, 'area': 40.94, 'evaluation': 2070000, 'room': '1室1厅', 'pure_shoufu': 954500, 'tax_total': 21850, 'house_age': 19, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共31层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 40.94, 'evaluation': 195.5, 'room': '1室1厅', 'pure_shoufu': 103, 'tax_total': 2, 'house_age': 19, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 111.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105710209.html
+地铁：9号线 总首付：95（万）
+        网页获取：{'floor': '高楼层/共23层', 'total_price': 225.0, 'area': 34.67, 'evaluation': 2025000, 'room': '1室0厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 11, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共23层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 34.67, 'evaluation': 191.25, 'room': '1室0厅', 'pure_shoufu': 100.7, 'tax_total': 2, 'house_age': 11, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 108.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104243419.html
+地铁：9号线 总首付：97（万）
+        网页获取：{'floor': '高楼层/共18层', 'total_price': 230.0, 'area': 39.84, 'evaluation': 2070000, 'room': '1室0厅', 'pure_shoufu': 954500, 'tax_total': 21850, 'house_age': 18, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共18层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 39.84, 'evaluation': 195.5, 'room': '1室0厅', 'pure_shoufu': 103, 'tax_total': 2, 'house_age': 18, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 111.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102902877.html
+地铁：6号线 总首付：92（万）
+        网页获取：{'floor': '中楼层/共14层', 'total_price': 219.0, 'area': 45.03, 'evaluation': 1971000, 'room': '1室1厅', 'pure_shoufu': 908850, 'tax_total': 20805, 'house_age': 22, 'month_pay_debj': 7415.0221778726, 'month_pay_debx': 9501.8625, 'total_shoufu': 92.9655, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共14层', 'cost_jingjiren': 6, 'total_price': 219, 'area': 45.03, 'evaluation': 186.15, 'room': '1室1厅', 'pure_shoufu': 98.1, 'tax_total': 1.9, 'house_age': 22, 'month_pay_debj': 8974, 'month_pay_debx': 7003, 'total_shoufu': 106.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104983551.html
+地铁：6号线 总首付：85（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 202.0, 'area': 44.75, 'evaluation': 1818000, 'room': '1室1厅', 'pure_shoufu': 838300, 'tax_total': 19888.1, 'house_age': 24, 'month_pay_debj': 6839.4268489966, 'month_pay_debx': 8764.275, 'total_shoufu': 85.81881, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.5, 'total_price': 202, 'area': 44.75, 'evaluation': 171.7, 'room': '1室1厅', 'pure_shoufu': 90.4, 'tax_total': 3.6, 'house_age': 24, 'month_pay_debj': 8277, 'month_pay_debx': 6459, 'total_shoufu': 99.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105782009.html
+地铁：6号线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 203.0, 'area': 44.75, 'evaluation': 1827000, 'room': '1室1厅', 'pure_shoufu': 842450, 'tax_total': 206415, 'house_age': 26, 'month_pay_debj': 6873.2853977541, 'month_pay_debx': 8807.6625, 'total_shoufu': 104.8865, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.5, 'total_price': 203, 'area': 44.75, 'evaluation': 172.55, 'room': '1室1厅', 'pure_shoufu': 90.9, 'tax_total': 3.5, 'house_age': 26, 'month_pay_debj': 8474, 'month_pay_debx': 6630, 'total_shoufu': 99.9, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104684723.html
+地铁：6号线 总首付：89（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 206.0, 'area': 44.75, 'evaluation': 1854000, 'room': '1室1厅', 'pure_shoufu': 854900, 'tax_total': 39838.1, 'house_age': 26, 'month_pay_debj': 6974.8610440263, 'month_pay_debx': 8937.825, 'total_shoufu': 89.47381, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 26, 'area': 44.75, 'floor': '高楼层/共6层', 'room': '1室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101104492787.html
+地铁：6号线 总首付：91（万）
+        网页获取：{'floor': '顶层/共14层', 'total_price': 215.0, 'area': 46.97, 'evaluation': 1935000, 'room': '1室2厅', 'pure_shoufu': 892250, 'tax_total': 20425, 'house_age': 22, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 91.2675, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共14层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 46.97, 'evaluation': 182.75, 'room': '1室2厅', 'pure_shoufu': 96.3, 'tax_total': 3.7, 'house_age': 22, 'month_pay_debj': 8810, 'month_pay_debx': 6875, 'total_shoufu': 105.9, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104899118.html
+地铁：6号线 总首付：94（万）
+        网页获取：{'floor': '中楼层/共14层', 'total_price': 223.0, 'area': 44.74, 'evaluation': 2007000, 'room': '1室1厅', 'pure_shoufu': 925450, 'tax_total': 21185, 'house_age': 22, 'month_pay_debj': 7550.4563729022, 'month_pay_debx': 9675.4125, 'total_shoufu': 94.6635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共14层', 'cost_jingjiren': 6.1, 'total_price': 223, 'area': 44.74, 'evaluation': 189.55, 'room': '1室1厅', 'pure_shoufu': 99.8, 'tax_total': 1.9, 'house_age': 22, 'month_pay_debj': 9138, 'month_pay_debx': 7131, 'total_shoufu': 107.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104962708.html
+地铁：6号线 总首付：93（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 219.0, 'area': 53.1, 'evaluation': 1971000, 'room': '1室1厅', 'pure_shoufu': 908850, 'tax_total': 21633.36, 'house_age': 22, 'month_pay_debj': 7415.0221778726, 'month_pay_debx': 9501.8625, 'total_shoufu': 93.04833599999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6, 'total_price': 219, 'area': 53.1, 'evaluation': 186.15, 'room': '1室1厅', 'pure_shoufu': 98.1, 'tax_total': 3.9, 'house_age': 22, 'month_pay_debj': 8974, 'month_pay_debx': 7003, 'total_shoufu': 108.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104545345.html
+地铁：6号线 总首付：104（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 245.0, 'area': 54.03, 'evaluation': 2205000, 'room': '2室1厅', 'pure_shoufu': 1016750, 'tax_total': 24117.86, 'house_age': 28, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.086786, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 54.03, 'evaluation': 208.25, 'room': '2室1厅', 'pure_shoufu': 109.7, 'tax_total': 2.2, 'house_age': 28, 'month_pay_debj': 10655, 'month_pay_debx': 8388, 'total_shoufu': 118.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105206156.html
+地铁：6号线 总首付：101（万）
+        网页获取：{'floor': '顶层/共7层', 'total_price': 238.0, 'area': 41.06, 'evaluation': 2142000, 'room': '1室2厅', 'pure_shoufu': 987700, 'tax_total': 22610, 'house_age': 19, 'month_pay_debj': 8058.3346042634, 'month_pay_debx': 10326.225, 'total_shoufu': 101.031, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共7层', 'cost_jingjiren': 6.5, 'total_price': 238, 'area': 41.06, 'evaluation': 202.3, 'room': '1室2厅', 'pure_shoufu': 106.6, 'tax_total': 2.1, 'house_age': 19, 'month_pay_debj': 9753, 'month_pay_debx': 7611, 'total_shoufu': 115.19999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105589097.html
+地铁：6号线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共14层', 'total_price': 225.0, 'area': 44.74, 'evaluation': 2025000, 'room': '1室1厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 22, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共14层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 44.74, 'evaluation': 191.25, 'room': '1室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 22, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105528233.html
+地铁：15号线 总首付：96（万）
+        网页获取：{'floor': '中楼层/共11层', 'total_price': 188.0, 'area': 35.62, 'evaluation': 1692000, 'room': '1室0厅', 'pure_shoufu': 780200, 'tax_total': 189340, 'house_age': 13, 'month_pay_debj': 6365.4071663929, 'month_pay_debx': 8156.85, 'total_shoufu': 96.954, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共11层', 'cost_jingjiren': 5.1, 'total_price': 188, 'area': 35.62, 'evaluation': 159.8, 'room': '1室0厅', 'pure_shoufu': 84.2, 'tax_total': 3.2, 'house_age': 13, 'month_pay_debj': 7704, 'month_pay_debx': 6012, 'total_shoufu': 92.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104799695.html
+地铁：15号线 总首付：86（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 200.0, 'area': 41.78, 'evaluation': 1800000, 'room': '1室1厅', 'pure_shoufu': 830000, 'tax_total': 38538.96, 'house_age': 27, 'month_pay_debj': 6771.7097514818, 'month_pay_debx': 8677.5, 'total_shoufu': 86.85389599999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 5.4, 'total_price': 200, 'area': 41.78, 'evaluation': 170, 'room': '1室1厅', 'pure_shoufu': 89.5, 'tax_total': 3.5, 'house_age': 27, 'month_pay_debj': 8516, 'month_pay_debx': 6682, 'total_shoufu': 98.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104684645.html
+地铁：15号线 总首付：92（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 218.0, 'area': 41.78, 'evaluation': 1962000, 'room': '1室1厅', 'pure_shoufu': 904700, 'tax_total': 21248.96, 'house_age': 27, 'month_pay_debj': 7381.1636291152, 'month_pay_debx': 9458.475, 'total_shoufu': 92.59489599999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.9, 'total_price': 218, 'area': 41.78, 'evaluation': 185.3, 'room': '1室1厅', 'pure_shoufu': 97.6, 'tax_total': 2, 'house_age': 27, 'month_pay_debj': 9282, 'month_pay_debx': 7283, 'total_shoufu': 105.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105713994.html
+地铁：15号线 总首付：93（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 220.0, 'area': 52.84, 'evaluation': 1980000, 'room': '2室1厅', 'pure_shoufu': 913000, 'tax_total': 21581.63, 'house_age': 24, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.458163, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 52.84, 'evaluation': 187, 'room': '2室1厅', 'pure_shoufu': 98.5, 'tax_total': 2, 'house_age': 24, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 106.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102783564.html
+地铁：15号线 总首付：102（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 205.0, 'area': 36.57, 'evaluation': 1845000, 'room': '1室1厅', 'pure_shoufu': 850750, 'tax_total': 170025, 'house_age': 26, 'month_pay_debj': 6941.0024952689, 'month_pay_debx': 8894.4375, 'total_shoufu': 102.0775, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.6, 'total_price': 205, 'area': 36.57, 'evaluation': 174.25, 'room': '1室1厅', 'pure_shoufu': 91.8, 'tax_total': 3.5, 'house_age': 26, 'month_pay_debj': 8558, 'month_pay_debx': 6695, 'total_shoufu': 100.89999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102837633.html
+地铁：15号线 总首付：80（万）
+        网页获取：{'floor': '低楼层/共11层', 'total_price': 190.0, 'area': 30.58, 'evaluation': 1710000, 'room': '1室1厅', 'pure_shoufu': 788500, 'tax_total': 18050, 'house_age': 13, 'month_pay_debj': 6433.1242639077, 'month_pay_debx': 8243.625, 'total_shoufu': 80.655, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共11层', 'cost_jingjiren': 5.2, 'total_price': 190, 'area': 30.58, 'evaluation': 161.5, 'room': '1室1厅', 'pure_shoufu': 85.1, 'tax_total': 1.7, 'house_age': 13, 'month_pay_debj': 7786, 'month_pay_debx': 6076, 'total_shoufu': 92.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104898579.html
+地铁：15号线 总首付：92（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 218.0, 'area': 43.8, 'evaluation': 1962000, 'room': '1室1厅', 'pure_shoufu': 904700, 'tax_total': 20710, 'house_age': 28, 'month_pay_debj': 7381.1636291152, 'month_pay_debx': 9458.475, 'total_shoufu': 92.541, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 5.9, 'total_price': 218, 'area': 43.8, 'evaluation': 185.3, 'room': '1室1厅', 'pure_shoufu': 97.6, 'tax_total': 1.9, 'house_age': 28, 'month_pay_debj': 9480, 'month_pay_debx': 7463, 'total_shoufu': 105.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105590283.html
+地铁：15号线 总首付：84（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 198.0, 'area': 36.57, 'evaluation': 1782000, 'room': '1室0厅', 'pure_shoufu': 821700, 'tax_total': 18810, 'house_age': 26, 'month_pay_debj': 6703.992653967, 'month_pay_debx': 8590.725, 'total_shoufu': 84.051, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 5.4, 'total_price': 198, 'area': 36.57, 'evaluation': 168.3, 'room': '1室0厅', 'pure_shoufu': 88.7, 'tax_total': 3.4, 'house_age': 26, 'month_pay_debj': 8265, 'month_pay_debx': 6467, 'total_shoufu': 97.50000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105372046.html
+地铁：15号线 总首付：93（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 219.0, 'area': 42.61, 'evaluation': 1971000, 'room': '1室1厅', 'pure_shoufu': 908850, 'tax_total': 21354.66, 'house_age': 27, 'month_pay_debj': 7415.0221778726, 'month_pay_debx': 9501.8625, 'total_shoufu': 93.020466, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6, 'total_price': 219, 'area': 42.61, 'evaluation': 186.15, 'room': '1室1厅', 'pure_shoufu': 98.1, 'tax_total': 2, 'house_age': 27, 'month_pay_debj': 9325, 'month_pay_debx': 7317, 'total_shoufu': 106.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104262242.html
+地铁：15号线 总首付：84（万）
+        网页获取：{'floor': '低楼层/共11层', 'total_price': 200.0, 'area': 31.15, 'evaluation': 1800000, 'room': '1室0厅', 'pure_shoufu': 830000, 'tax_total': 19000, 'house_age': 13, 'month_pay_debj': 6771.7097514818, 'month_pay_debx': 8677.5, 'total_shoufu': 84.9, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共11层', 'cost_jingjiren': 5.4, 'total_price': 200, 'area': 31.15, 'evaluation': 170, 'room': '1室0厅', 'pure_shoufu': 89.5, 'tax_total': 1.7, 'house_age': 13, 'month_pay_debj': 8195, 'month_pay_debx': 6396, 'total_shoufu': 96.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104680639.html
+地铁：15号线 总首付：89（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 210.0, 'area': 47.85, 'evaluation': 1890000, 'room': '1室1厅', 'pure_shoufu': 871500, 'tax_total': 20567.26, 'house_age': 28, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 89.206726, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.7, 'total_price': 210, 'area': 47.85, 'evaluation': 178.5, 'room': '1室1厅', 'pure_shoufu': 94, 'tax_total': 1.9, 'house_age': 28, 'month_pay_debj': 9133, 'month_pay_debx': 7189, 'total_shoufu': 101.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105406382.html
+地铁：15号线 总首付：94（万）
+        网页获取：{'floor': '中楼层/共11层', 'total_price': 175.0, 'area': 31.85, 'evaluation': 1575000, 'room': '1室0厅', 'pure_shoufu': 726250, 'tax_total': 221875, 'house_age': 13, 'month_pay_debj': 5925.2460325466, 'month_pay_debx': 7592.8125, 'total_shoufu': 94.8125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共11层', 'cost_jingjiren': 4.8, 'total_price': 175, 'area': 31.85, 'evaluation': 148.75, 'room': '1室0厅', 'pure_shoufu': 78.4, 'tax_total': 3, 'house_age': 13, 'month_pay_debj': 7171, 'month_pay_debx': 5596, 'total_shoufu': 86.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103288296.html
+地铁：15号线 总首付：101（万）
+        网页获取：{'floor': '底层/共5层', 'total_price': 215.0, 'area': 50.06, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 122223.14, 'house_age': 28, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 101.447314, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共5层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 50.06, 'evaluation': 182.75, 'room': '1室1厅', 'pure_shoufu': 96.3, 'tax_total': 13.2, 'house_age': 28, 'month_pay_debj': 9350, 'month_pay_debx': 7361, 'total_shoufu': 115.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105671571.html
+地铁：15号线 总首付：93（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 205.0, 'area': 47.85, 'evaluation': 1845000, 'room': '1室1厅', 'pure_shoufu': 850750, 'tax_total': 80025, 'house_age': 28, 'month_pay_debj': 6941.0024952689, 'month_pay_debx': 8894.4375, 'total_shoufu': 93.0775, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 5.6, 'total_price': 205, 'area': 47.85, 'evaluation': 174.25, 'room': '1室1厅', 'pure_shoufu': 91.8, 'tax_total': 3.5, 'house_age': 28, 'month_pay_debj': 8915, 'month_pay_debx': 7018, 'total_shoufu': 100.89999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105042634.html
+地铁：15号线 总首付：101（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 220.0, 'area': 58.87, 'evaluation': 1980000, 'room': '1室1厅', 'pure_shoufu': 913000, 'tax_total': 97100, 'house_age': 21, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 101.01, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 58.87, 'evaluation': 187, 'room': '1室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.8, 'house_age': 21, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 108.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105415259.html
+地铁：15号线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共11层', 'total_price': 192.0, 'area': 36.7, 'evaluation': 1728000, 'room': '1室0厅', 'pure_shoufu': 796800, 'tax_total': 248560, 'house_age': 13, 'month_pay_debj': 6500.8413614226, 'month_pay_debx': 8330.4, 'total_shoufu': 104.536, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共11层', 'cost_jingjiren': 5.2, 'total_price': 192, 'area': 36.7, 'evaluation': 163.2, 'room': '1室0厅', 'pure_shoufu': 86, 'tax_total': 3.3, 'house_age': 13, 'month_pay_debj': 7868, 'month_pay_debx': 6140, 'total_shoufu': 94.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104711806.html
+地铁：15号线 总首付：92（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 218.0, 'area': 41.78, 'evaluation': 1962000, 'room': '1室1厅', 'pure_shoufu': 904700, 'tax_total': 21248.96, 'house_age': 27, 'month_pay_debj': 7381.1636291152, 'month_pay_debx': 9458.475, 'total_shoufu': 92.59489599999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 5.9, 'total_price': 218, 'area': 41.78, 'evaluation': 185.3, 'room': '1室1厅', 'pure_shoufu': 97.6, 'tax_total': 2, 'house_age': 27, 'month_pay_debj': 9282, 'month_pay_debx': 7283, 'total_shoufu': 105.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104206883.html
+地铁：15号线 总首付：89（万）
+        网页获取：{'floor': '高楼层/共11层', 'total_price': 186.0, 'area': 35.62, 'evaluation': 1674000, 'room': '1室0厅', 'pure_shoufu': 771900, 'tax_total': 121730, 'house_age': 13, 'month_pay_debj': 6297.6900688781, 'month_pay_debx': 8070.075, 'total_shoufu': 89.363, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共11层', 'cost_jingjiren': 5.1, 'total_price': 186, 'area': 35.62, 'evaluation': 158.1, 'room': '1室0厅', 'pure_shoufu': 83.3, 'tax_total': 3.2, 'house_age': 13, 'month_pay_debj': 7622, 'month_pay_debx': 5948, 'total_shoufu': 91.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105207227.html
+地铁：15号线 总首付：93（万）
+        网页获取：{'floor': '中楼层/共11层', 'total_price': 195.0, 'area': 36.7, 'evaluation': 1755000, 'room': '1室0厅', 'pure_shoufu': 809250, 'tax_total': 127975, 'house_age': 13, 'month_pay_debj': 6602.4170076948, 'month_pay_debx': 8460.5625, 'total_shoufu': 93.7225, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共11层', 'cost_jingjiren': 5.3, 'total_price': 195, 'area': 36.7, 'evaluation': 165.75, 'room': '1室0厅', 'pure_shoufu': 87.3, 'tax_total': 3.4, 'house_age': 13, 'month_pay_debj': 7991, 'month_pay_debx': 6236, 'total_shoufu': 96.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103333834.html
+地铁：15号线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共4层', 'total_price': 225.0, 'area': 61.28, 'evaluation': 2025000, 'room': '2室1厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 28, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共4层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 61.28, 'evaluation': 191.25, 'room': '2室1厅', 'pure_shoufu': 100.7, 'tax_total': 2, 'house_age': 28, 'month_pay_debj': 9785, 'month_pay_debx': 7703, 'total_shoufu': 108.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104862892.html
+地铁：15号线 总首付：101（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 238.0, 'area': 48.59, 'evaluation': 2142000, 'room': '1室1厅', 'pure_shoufu': 987700, 'tax_total': 22610, 'house_age': 25, 'month_pay_debj': 8058.3346042634, 'month_pay_debx': 10326.225, 'total_shoufu': 101.031, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.5, 'total_price': 238, 'area': 48.59, 'evaluation': 202.3, 'room': '1室1厅', 'pure_shoufu': 106.6, 'tax_total': 2.1, 'house_age': 25, 'month_pay_debj': 9753, 'month_pay_debx': 7611, 'total_shoufu': 115.19999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105441853.html
+地铁：15号线 总首付：99（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 234.0, 'area': 60.17, 'evaluation': 2106000, 'room': '2室1厅', 'pure_shoufu': 971100, 'tax_total': 23006.19, 'house_age': 24, 'month_pay_debj': 7922.9004092337, 'month_pay_debx': 10152.675, 'total_shoufu': 99.410619, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.3, 'total_price': 232, 'area': 60.17, 'evaluation': 197.2, 'room': '2室1厅', 'pure_shoufu': 103.9, 'tax_total': 4.1, 'house_age': 24, 'month_pay_debj': 9507, 'month_pay_debx': 7419, 'total_shoufu': 114.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104374855.html
+地铁：15号线 总首付：99（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 235.0, 'area': 57.56, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 23067.52, 'house_age': 28, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.83175200000001, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 57.56, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 4.1, 'house_age': 28, 'month_pay_debj': 10220, 'month_pay_debx': 8045, 'total_shoufu': 115.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105524680.html
+地铁：15号线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共4层', 'total_price': 240.0, 'area': 61.28, 'evaluation': 2160000, 'room': '2室1厅', 'pure_shoufu': 996000, 'tax_total': 46390.51, 'house_age': 28, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 104.239051, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共4层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 61.28, 'evaluation': 204, 'room': '2室1厅', 'pure_shoufu': 107.4, 'tax_total': 4.2, 'house_age': 28, 'month_pay_debj': 10437, 'month_pay_debx': 8217, 'total_shoufu': 118.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105468386.html
+地铁：15号线 总首付：96（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 228.0, 'area': 51.38, 'evaluation': 2052000, 'room': '2室1厅', 'pure_shoufu': 946200, 'tax_total': 21660, 'house_age': 25, 'month_pay_debj': 7719.7491166893, 'month_pay_debx': 9892.35, 'total_shoufu': 96.786, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.2, 'total_price': 228, 'area': 51.38, 'evaluation': 193.8, 'room': '2室1厅', 'pure_shoufu': 102.1, 'tax_total': 2, 'house_age': 25, 'month_pay_debj': 9343, 'month_pay_debx': 7291, 'total_shoufu': 110.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104169150.html
+地铁：15号线 总首付：99（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 235.0, 'area': 56.97, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 26, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 56.97, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 2, 'house_age': 26, 'month_pay_debj': 9810, 'month_pay_debx': 7675, 'total_shoufu': 113.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105499562.html
+地铁：15号线 总首付：99（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 235.0, 'area': 57.24, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 23, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 57.24, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 2, 'house_age': 23, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 113.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105379616.html
+地铁：15号线 总首付：98（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 233.0, 'area': 59.67, 'evaluation': 2097000, 'room': '1室1厅', 'pure_shoufu': 966950, 'tax_total': 22135, 'house_age': 28, 'month_pay_debj': 7889.0418604763, 'month_pay_debx': 10109.2875, 'total_shoufu': 98.9085, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.3, 'total_price': 233, 'area': 59.67, 'evaluation': 198.05, 'room': '1室1厅', 'pure_shoufu': 104.3, 'tax_total': 2, 'house_age': 28, 'month_pay_debj': 10133, 'month_pay_debx': 7977, 'total_shoufu': 112.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105628719.html
+地铁：15号线 总首付：99（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 235.0, 'area': 59.41, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 23091.38, 'house_age': 27, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.834138, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 59.41, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 2.1, 'house_age': 27, 'month_pay_debj': 10006, 'month_pay_debx': 7851, 'total_shoufu': 113.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104888988.html
+地铁：15号线 总首付：100（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 235.0, 'area': 51.59, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 28175, 'house_age': 29, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 100.3425, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 51.59, 'evaluation': 199.75, 'room': '2室1厅', 'pure_shoufu': 105.2, 'tax_total': 4, 'house_age': 29, 'month_pay_debj': 10454, 'month_pay_debx': 8260, 'total_shoufu': 115.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104896167.html
+地铁：15号线 总首付：93（万）
+        网页获取：{'floor': '中楼层/共4层', 'total_price': 220.0, 'area': 61.28, 'evaluation': 1980000, 'room': '2室1厅', 'pure_shoufu': 913000, 'tax_total': 21690.51, 'house_age': 28, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.46905100000001, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共4层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 61.28, 'evaluation': 187, 'room': '2室1厅', 'pure_shoufu': 98.5, 'tax_total': 2, 'house_age': 28, 'month_pay_debj': 9567, 'month_pay_debx': 7532, 'total_shoufu': 106.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104563427.html
+地铁：15号线 总首付：101（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 240.0, 'area': 46.79, 'evaluation': 2160000, 'room': '1室1厅', 'pure_shoufu': 996000, 'tax_total': 23403.59, 'house_age': 25, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.940359, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 46.79, 'evaluation': 204, 'room': '1室1厅', 'pure_shoufu': 107.4, 'tax_total': 2.2, 'house_age': 25, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 116.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102824164.html
+地铁：15号线 总首付：96（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 227.0, 'area': 56.4, 'evaluation': 2043000, 'room': '1室1厅', 'pure_shoufu': 942050, 'tax_total': 22292.56, 'house_age': 28, 'month_pay_debj': 7685.8905679319, 'month_pay_debx': 9848.9625, 'total_shoufu': 96.434256, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.2, 'total_price': 227, 'area': 56.4, 'evaluation': 192.95, 'room': '1室1厅', 'pure_shoufu': 101.6, 'tax_total': 2.1, 'house_age': 28, 'month_pay_debj': 9872, 'month_pay_debx': 7771, 'total_shoufu': 109.89999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105395584.html
+地铁：15号线 总首付：99（万）
+        网页获取：{'floor': '低楼层/共11层', 'total_price': 235.0, 'area': 44.06, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 13, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共11层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 44.06, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 2, 'house_age': 13, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 113.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103386057.html
+地铁：15号线 总首付：101（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 239.0, 'area': 54.68, 'evaluation': 2151000, 'room': '1室1厅', 'pure_shoufu': 991850, 'tax_total': 23410.37, 'house_age': 21, 'month_pay_debj': 8092.1931530208, 'month_pay_debx': 10369.6125, 'total_shoufu': 101.526037, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.5, 'total_price': 239, 'area': 54.68, 'evaluation': 203.15, 'room': '1室1厅', 'pure_shoufu': 107, 'tax_total': 2.2, 'house_age': 21, 'month_pay_debj': 9794, 'month_pay_debx': 7643, 'total_shoufu': 115.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105106185.html
+地铁：15号线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 246.0, 'area': 57.33, 'evaluation': 2214000, 'room': '2室1厅', 'pure_shoufu': 1020900, 'tax_total': 24109.55, 'house_age': 28, 'month_pay_debj': 8329.2029943227, 'month_pay_debx': 10673.325, 'total_shoufu': 104.500955, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.7, 'total_price': 246, 'area': 57.33, 'evaluation': 209.1, 'room': '2室1厅', 'pure_shoufu': 110.1, 'tax_total': 2.2, 'house_age': 28, 'month_pay_debj': 10698, 'month_pay_debx': 8422, 'total_shoufu': 119.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104935272.html
+地铁：15号线 总首付：101（万）
+        网页获取：{'floor': '低楼层/共11层', 'total_price': 240.0, 'area': 43.83, 'evaluation': 2160000, 'room': '1室0厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 13, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共11层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 43.83, 'evaluation': 204, 'room': '1室0厅', 'pure_shoufu': 107.4, 'tax_total': 2.1, 'house_age': 13, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 116.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102509593.html
+地铁：15号线 总首付：104（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 245.0, 'area': 57.85, 'evaluation': 2205000, 'room': '2室1厅', 'pure_shoufu': 1016750, 'tax_total': 24021.26, 'house_age': 28, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.077126, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 57.85, 'evaluation': 208.25, 'room': '2室1厅', 'pure_shoufu': 109.7, 'tax_total': 2.2, 'house_age': 28, 'month_pay_debj': 10655, 'month_pay_debx': 8388, 'total_shoufu': 118.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104537611.html
+地铁：15号线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 246.0, 'area': 51.38, 'evaluation': 2214000, 'room': '2室1厅', 'pure_shoufu': 1020900, 'tax_total': 23370, 'house_age': 25, 'month_pay_debj': 8329.2029943227, 'month_pay_debx': 10673.325, 'total_shoufu': 104.427, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.7, 'total_price': 246, 'area': 51.38, 'evaluation': 209.1, 'room': '2室1厅', 'pure_shoufu': 110.1, 'tax_total': 4.2, 'house_age': 25, 'month_pay_debj': 10080, 'month_pay_debx': 7866, 'total_shoufu': 121.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104989488.html
+地铁：15号线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 245.0, 'area': 57.24, 'evaluation': 2205000, 'room': '2室1厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 23, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 57.24, 'evaluation': 208.25, 'room': '2室1厅', 'pure_shoufu': 109.7, 'tax_total': 4.2, 'house_age': 23, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 120.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105385412.html
+地铁：15号线 总首付：103（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 243.0, 'area': 51.38, 'evaluation': 2187000, 'room': '2室1厅', 'pure_shoufu': 1008450, 'tax_total': 23085, 'house_age': 25, 'month_pay_debj': 8227.6273480504, 'month_pay_debx': 10543.1625, 'total_shoufu': 103.1535, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.6, 'total_price': 243, 'area': 51.38, 'evaluation': 206.55, 'room': '2室1厅', 'pure_shoufu': 108.8, 'tax_total': 2.1, 'house_age': 25, 'month_pay_debj': 9957, 'month_pay_debx': 7771, 'total_shoufu': 117.49999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104503611.html
+地铁：15号线 总首付：103（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 243.0, 'area': 59.41, 'evaluation': 2187000, 'room': '2室1厅', 'pure_shoufu': 1008450, 'tax_total': 23851.38, 'house_age': 27, 'month_pay_debj': 8227.6273480504, 'month_pay_debx': 10543.1625, 'total_shoufu': 103.230138, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.6, 'total_price': 243, 'area': 59.41, 'evaluation': 206.55, 'room': '2室1厅', 'pure_shoufu': 108.8, 'tax_total': 2.2, 'house_age': 27, 'month_pay_debj': 10347, 'month_pay_debx': 8119, 'total_shoufu': 117.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105619163.html
+地铁：7号线 总首付：101（万）
+        网页获取：{'floor': '高楼层/共22层', 'total_price': 245.0, 'area': 54.99, 'evaluation': 2205000, 'room': '1室1厅', 'pure_shoufu': 1016750, 'tax_total': 0, 'house_age': 6, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 101.675, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 6, 'area': 54.99, 'floor': '高楼层/共22层', 'room': '1室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101105437496.html
+地铁：8号线南段 总首付：93（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 219.0, 'area': 47.23, 'evaluation': 1971000, 'room': '1室1厅', 'pure_shoufu': 908850, 'tax_total': 21541.78, 'house_age': 24, 'month_pay_debj': 7415.0221778726, 'month_pay_debx': 9501.8625, 'total_shoufu': 93.039178, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6, 'total_price': 219, 'area': 47.23, 'evaluation': 186.15, 'room': '1室1厅', 'pure_shoufu': 98.1, 'tax_total': 2, 'house_age': 24, 'month_pay_debj': 8974, 'month_pay_debx': 7003, 'total_shoufu': 106.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104975413.html
+地铁：8号线南段 总首付：91（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 215.0, 'area': 44.21, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 21114.67, 'house_age': 26, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 91.336467, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 44.21, 'evaluation': 182.75, 'room': '1室1厅', 'pure_shoufu': 96.3, 'tax_total': 1.9, 'house_age': 26, 'month_pay_debj': 8975, 'month_pay_debx': 7022, 'total_shoufu': 104.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104115981.html
+地铁：8号线南段 总首付：103（万）
+        网页获取：{'floor': '低楼层/共22层', 'total_price': 220.0, 'area': 39.76, 'evaluation': 1980000, 'room': '1室1厅', 'pure_shoufu': 913000, 'tax_total': 126020.23, 'house_age': 26, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 103.902023, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共22层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 39.76, 'evaluation': 187, 'room': '1室1厅', 'pure_shoufu': 98.5, 'tax_total': 13.6, 'house_age': 26, 'month_pay_debj': 9184, 'month_pay_debx': 7185, 'total_shoufu': 118.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105664338.html
+地铁：8号线南段 总首付：97（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 230.0, 'area': 44.41, 'evaluation': 2070000, 'room': '1室1厅', 'pure_shoufu': 954500, 'tax_total': 21850, 'house_age': 24, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 44.41, 'evaluation': 195.5, 'room': '1室1厅', 'pure_shoufu': 103, 'tax_total': 2, 'house_age': 24, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 111.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105263426.html
+地铁：8号线南段 总首付：95（万）
+        网页获取：{'floor': '顶层/共5层', 'total_price': 220.0, 'area': 39.1, 'evaluation': 1980000, 'room': '1室1厅', 'pure_shoufu': 913000, 'tax_total': 42409.96, 'house_age': 0, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 95.54099599999999, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 0, 'area': 39.1, 'floor': '顶层/共5层', 'room': '1室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101105494711.html
+地铁：8号线南段 总首付：104（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 230.0, 'area': 52.11, 'evaluation': 2070000, 'room': '1室1厅', 'pure_shoufu': 954500, 'tax_total': 87400, 'house_age': 21, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 104.19, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 21, 'area': 52.11, 'floor': '顶层/共6层', 'room': '1室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101105288048.html
+地铁：8号线南段 总首付：83（万）
+        网页获取：{'floor': '低楼层/共16层', 'total_price': 200.0, 'area': 54.45, 'evaluation': 1800000, 'room': '1室0厅', 'pure_shoufu': 830000, 'tax_total': 0, 'house_age': 7, 'month_pay_debj': 6771.7097514818, 'month_pay_debx': 8677.5, 'total_shoufu': 83.0, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 7, 'area': 54.45, 'floor': '低楼层/共16层', 'room': '1室0厅'}
+        链接：https://bj.lianjia.com/ershoufang/101104110075.html
+地铁：8号线南段 总首付：104（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 230.0, 'area': 44.36, 'evaluation': 2070000, 'room': '1室1厅', 'pure_shoufu': 954500, 'tax_total': 87400, 'house_age': 24, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 104.19, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 24, 'area': 44.36, 'floor': '顶层/共6层', 'room': '1室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101105666913.html
+地铁：8号线南段 总首付：95（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 220.0, 'area': 41.49, 'evaluation': 1980000, 'room': '1室1厅', 'pure_shoufu': 913000, 'tax_total': 42447.24, 'house_age': 24, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 95.544724, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 41.49, 'evaluation': 187, 'room': '1室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.9, 'house_age': 24, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 108.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105497414.html
+地铁：8号线南段 总首付：100（万）
+        网页获取：{'floor': '底层/共20层', 'total_price': 199.0, 'area': 30.07, 'evaluation': 1791000, 'room': '1室0厅', 'pure_shoufu': 825850, 'tax_total': 179195, 'house_age': 12, 'month_pay_debj': 6737.8512027244, 'month_pay_debx': 8634.1125, 'total_shoufu': 100.5045, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共20层', 'cost_jingjiren': 5.4, 'total_price': 199, 'area': 30.07, 'evaluation': 169.15, 'room': '1室0厅', 'pure_shoufu': 89.1, 'tax_total': 3.4, 'house_age': 12, 'month_pay_debj': 8154, 'month_pay_debx': 6364, 'total_shoufu': 97.9, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103293421.html
+地铁：8号线南段 总首付：95（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 225.0, 'area': 45.53, 'evaluation': 2025000, 'room': '1室1厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 25, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 45.53, 'evaluation': 191.25, 'room': '1室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 25, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105662839.html
+地铁：8号线南段 总首付：89（万）
+        网页获取：{'floor': '底层/共9层', 'total_price': 210.0, 'area': 47.3, 'evaluation': 1890000, 'room': '1室1厅', 'pure_shoufu': 871500, 'tax_total': 20687.88, 'house_age': 24, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 89.218788, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共9层', 'cost_jingjiren': 5.7, 'total_price': 210, 'area': 47.3, 'evaluation': 178.5, 'room': '1室1厅', 'pure_shoufu': 94, 'tax_total': 1.9, 'house_age': 24, 'month_pay_debj': 8605, 'month_pay_debx': 6715, 'total_shoufu': 101.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105259534.html
+地铁：8号线南段 总首付：93（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 220.0, 'area': 50.49, 'evaluation': 1980000, 'room': '2室1厅', 'pure_shoufu': 913000, 'tax_total': 20900, 'house_age': 8, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.39, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 50.49, 'evaluation': 187, 'room': '2室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.8, 'house_age': 8, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 108.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105783863.html
+地铁：8号线南段 总首付：98（万）
+        网页获取：{'floor': '低楼层/共16层', 'total_price': 190.0, 'area': 54.8, 'evaluation': 1710000, 'room': '1室0厅', 'pure_shoufu': 788500, 'tax_total': 198550, 'house_age': 9, 'month_pay_debj': 6433.1242639077, 'month_pay_debx': 8243.625, 'total_shoufu': 98.705, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共16层', 'cost_jingjiren': 5.2, 'total_price': 190, 'area': 54.8, 'evaluation': 79.46, 'room': '1室0厅', 'pure_shoufu': 138.4, 'tax_total': 41, 'house_age': 9, 'month_pay_debj': 3831, 'month_pay_debx': 2989, 'total_shoufu': 184.6, 'evaluation_rate': '0.42'}
+        链接：https://bj.lianjia.com/ershoufang/101105244801.html
+地铁：8号线南段 总首付：95（万）
+        网页获取：{'floor': '底层/共18层', 'total_price': 226.0, 'area': 34.3, 'evaluation': 2034000, 'room': '1室1厅', 'pure_shoufu': 937900, 'tax_total': 22005.07, 'house_age': 29, 'month_pay_debj': 7652.0320191745, 'month_pay_debx': 9805.575, 'total_shoufu': 95.990507, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共18层', 'cost_jingjiren': 6.2, 'total_price': 226, 'area': 34.3, 'evaluation': 192.1, 'room': '1室1厅', 'pure_shoufu': 101.2, 'tax_total': 2, 'house_age': 29, 'month_pay_debj': 10054, 'month_pay_debx': 7943, 'total_shoufu': 109.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104661803.html
+地铁：8号线南段 总首付：95（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 225.0, 'area': 53.26, 'evaluation': 2025000, 'room': '1室1厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 24, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 53.26, 'evaluation': 191.25, 'room': '1室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 24, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105118639.html
+地铁：8号线南段 总首付：103（万）
+        网页获取：{'floor': '底层/共15层', 'total_price': 225.0, 'area': 53.48, 'evaluation': 2025000, 'room': '1室1厅', 'pure_shoufu': 933750, 'tax_total': 106125, 'house_age': 13, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 103.9875, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共15层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 53.48, 'evaluation': 191.25, 'room': '1室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 13, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103975142.html
+地铁：8号线南段 总首付：97（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 230.0, 'area': 53.26, 'evaluation': 2070000, 'room': '2室1厅', 'pure_shoufu': 954500, 'tax_total': 21850, 'house_age': 24, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 53.26, 'evaluation': 195.5, 'room': '2室1厅', 'pure_shoufu': 103, 'tax_total': 2, 'house_age': 24, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 111.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102760453.html
+地铁：8号线南段 总首付：99（万）
+        网页获取：{'floor': '低楼层/共16层', 'total_price': 235.0, 'area': 45.11, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 23, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共16层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 45.11, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 2, 'house_age': 23, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 113.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102884148.html
+地铁：8号线南段 总首付：102（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 242.0, 'area': 44.44, 'evaluation': 2178000, 'room': '1室1厅', 'pure_shoufu': 1004300, 'tax_total': 22990, 'house_age': 10, 'month_pay_debj': 8193.768799293, 'month_pay_debx': 10499.775, 'total_shoufu': 102.729, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.6, 'total_price': 242, 'area': 44.44, 'evaluation': 205.7, 'room': '1室1厅', 'pure_shoufu': 108.3, 'tax_total': 4.2, 'house_age': 10, 'month_pay_debj': 9916, 'month_pay_debx': 7739, 'total_shoufu': 119.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104994817.html
+地铁：8号线南段 总首付：104（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 245.0, 'area': 63.96, 'evaluation': 2205000, 'room': '2室1厅', 'pure_shoufu': 1016750, 'tax_total': 24100.08, 'house_age': 24, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.085008, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 63.96, 'evaluation': 208.25, 'room': '2室1厅', 'pure_shoufu': 109.7, 'tax_total': 2.2, 'house_age': 24, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 118.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105528634.html
+地铁：8号线南段 总首付：101（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 240.0, 'area': 50.74, 'evaluation': 2160000, 'room': '1室1厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 23, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 50.74, 'evaluation': 204, 'room': '1室1厅', 'pure_shoufu': 107.4, 'tax_total': 4.1, 'house_age': 23, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 118.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103759658.html
+地铁：14号线东段 总首付：91（万）
+        网页获取：{'floor': '底层/共7层', 'total_price': 190.0, 'area': 40.39, 'evaluation': 1710000, 'room': '1室1厅', 'pure_shoufu': 788500, 'tax_total': 126120.54, 'house_age': 27, 'month_pay_debj': 6433.1242639077, 'month_pay_debx': 8243.625, 'total_shoufu': 91.46205400000001, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共7层', 'cost_jingjiren': 5.2, 'total_price': 190, 'area': 40.39, 'evaluation': 161.5, 'room': '1室1厅', 'pure_shoufu': 85.1, 'tax_total': 11.8, 'house_age': 27, 'month_pay_debj': 8090, 'month_pay_debx': 6348, 'total_shoufu': 102.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104429856.html
+地铁：14号线东段 总首付：101（万）
+        网页获取：{'floor': '中楼层/共29层', 'total_price': 240.0, 'area': 32.28, 'evaluation': 2160000, 'room': '1室1厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 14, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共29层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 32.28, 'evaluation': 204, 'room': '1室1厅', 'pure_shoufu': 107.4, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 116.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105553310.html
+地铁：14号线西段 总首付：98（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 200.0, 'area': 39.84, 'evaluation': 1800000, 'room': '1室1厅', 'pure_shoufu': 830000, 'tax_total': 155000, 'house_age': 29, 'month_pay_debj': 6771.7097514818, 'month_pay_debx': 8677.5, 'total_shoufu': 98.5, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.4, 'total_price': 200, 'area': 39.84, 'evaluation': 170, 'room': '1室1厅', 'pure_shoufu': 89.5, 'tax_total': 3.4, 'house_age': 29, 'month_pay_debj': 8897, 'month_pay_debx': 7029, 'total_shoufu': 98.30000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103913155.html
+地铁：14号线西段 总首付：94（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 222.0, 'area': 41.46, 'evaluation': 1998000, 'room': '1室1厅', 'pure_shoufu': 921300, 'tax_total': 21736.77, 'house_age': 29, 'month_pay_debj': 7516.5978241448, 'month_pay_debx': 9632.025, 'total_shoufu': 94.30367700000001, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6, 'total_price': 222, 'area': 41.46, 'evaluation': 188.7, 'room': '1室1厅', 'pure_shoufu': 99.4, 'tax_total': 2, 'house_age': 29, 'month_pay_debj': 9876, 'month_pay_debx': 7803, 'total_shoufu': 107.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104986595.html
+地铁：昌平线 总首付：84（万）
+        网页获取：{'floor': '中楼层/共7层', 'total_price': 200.0, 'area': 34.12, 'evaluation': 1800000, 'room': '1室1厅', 'pure_shoufu': 830000, 'tax_total': 19000, 'house_age': 16, 'month_pay_debj': 6771.7097514818, 'month_pay_debx': 8677.5, 'total_shoufu': 84.9, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共7层', 'cost_jingjiren': 5.4, 'total_price': 200, 'area': 34.12, 'evaluation': 170, 'room': '1室1厅', 'pure_shoufu': 89.5, 'tax_total': 1.7, 'house_age': 16, 'month_pay_debj': 8195, 'month_pay_debx': 6396, 'total_shoufu': 96.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102477293.html
+地铁：昌平线 总首付：99（万）
+        网页获取：{'floor': '中楼层/共7层', 'total_price': 180.0, 'area': 34.12, 'evaluation': 1620000, 'room': '1室0厅', 'pure_shoufu': 747000, 'tax_total': 249900, 'house_age': 16, 'month_pay_debj': 6094.5387763336, 'month_pay_debx': 7809.75, 'total_shoufu': 99.69, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共7层', 'cost_jingjiren': 4.9, 'total_price': 180, 'area': 34.12, 'evaluation': 153, 'room': '1室0厅', 'pure_shoufu': 80.6, 'tax_total': 3.1, 'house_age': 16, 'month_pay_debj': 7376, 'month_pay_debx': 5756, 'total_shoufu': 88.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103291992.html
+地铁：昌平线 总首付：89（万）
+        网页获取：{'floor': '顶层/共5层', 'total_price': 200.0, 'area': 40.51, 'evaluation': 1800000, 'room': '1室1厅', 'pure_shoufu': 830000, 'tax_total': 61000, 'house_age': 14, 'month_pay_debj': 6771.7097514818, 'month_pay_debx': 8677.5, 'total_shoufu': 89.1, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共5层', 'cost_jingjiren': 5.4, 'total_price': 200, 'area': 40.51, 'evaluation': 170, 'room': '1室1厅', 'pure_shoufu': 89.5, 'tax_total': 3.4, 'house_age': 14, 'month_pay_debj': 8195, 'month_pay_debx': 6396, 'total_shoufu': 98.30000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105282179.html
+地铁：昌平线 总首付：75（万）
+        网页获取：{'floor': '顶层/共7层', 'total_price': 179.0, 'area': 34.12, 'evaluation': 1611000, 'room': '1室0厅', 'pure_shoufu': 742850, 'tax_total': 17005, 'house_age': 16, 'month_pay_debj': 6060.6802275762, 'month_pay_debx': 7766.3625, 'total_shoufu': 75.9855, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共7层', 'cost_jingjiren': 4.9, 'total_price': 179, 'area': 34.12, 'evaluation': 152.15, 'room': '1室0厅', 'pure_shoufu': 80.2, 'tax_total': 1.6, 'house_age': 16, 'month_pay_debj': 7335, 'month_pay_debx': 5724, 'total_shoufu': 86.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105180832.html
+地铁：昌平线 总首付：81（万）
+        网页获取：{'floor': '顶层/共5层', 'total_price': 168.0, 'area': 41.2, 'evaluation': 1512000, 'room': '1室1厅', 'pure_shoufu': 697200, 'tax_total': 113240, 'house_age': 14, 'month_pay_debj': 5688.2361912447, 'month_pay_debx': 7289.1, 'total_shoufu': 81.044, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共5层', 'cost_jingjiren': 4.6, 'total_price': 168, 'area': 41.2, 'evaluation': 142.8, 'room': '1室1厅', 'pure_shoufu': 75.2, 'tax_total': 2.9, 'house_age': 14, 'month_pay_debj': 6884, 'month_pay_debx': 5372, 'total_shoufu': 82.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104290627.html
+地铁：昌平线 总首付：84（万）
+        网页获取：{'floor': '顶层/共7层', 'total_price': 198.0, 'area': 34.12, 'evaluation': 1782000, 'room': '1室0厅', 'pure_shoufu': 821700, 'tax_total': 18810, 'house_age': 16, 'month_pay_debj': 6703.992653967, 'month_pay_debx': 8590.725, 'total_shoufu': 84.051, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共7层', 'cost_jingjiren': 5.4, 'total_price': 198, 'area': 34.12, 'evaluation': 168.3, 'room': '1室0厅', 'pure_shoufu': 88.7, 'tax_total': 1.7, 'house_age': 16, 'month_pay_debj': 8113, 'month_pay_debx': 6332, 'total_shoufu': 95.80000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103970832.html
+地铁：昌平线 总首付：100（万）
+        网页获取：{'floor': '顶层/共7层', 'total_price': 180.0, 'area': 34.12, 'evaluation': 1620000, 'room': '1室0厅', 'pure_shoufu': 747000, 'tax_total': 254900, 'house_age': 16, 'month_pay_debj': 6094.5387763336, 'month_pay_debx': 7809.75, 'total_shoufu': 100.19, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共7层', 'cost_jingjiren': 4.9, 'total_price': 180, 'area': 34.12, 'evaluation': 153, 'room': '1室0厅', 'pure_shoufu': 80.6, 'tax_total': 3.1, 'house_age': 16, 'month_pay_debj': 7376, 'month_pay_debx': 5756, 'total_shoufu': 88.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104156369.html
+地铁：昌平线 总首付：76（万）
+        网页获取：{'floor': '中楼层/共5层', 'total_price': 180.0, 'area': 42.33, 'evaluation': 1620000, 'room': '1室1厅', 'pure_shoufu': 747000, 'tax_total': 17100, 'house_age': 14, 'month_pay_debj': 6094.5387763336, 'month_pay_debx': 7809.75, 'total_shoufu': 76.41, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共5层', 'cost_jingjiren': 4.9, 'total_price': 180, 'area': 42.33, 'evaluation': 153, 'room': '1室1厅', 'pure_shoufu': 80.6, 'tax_total': 3.1, 'house_age': 14, 'month_pay_debj': 7376, 'month_pay_debx': 5756, 'total_shoufu': 88.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105551125.html
+地铁：昌平线 总首付：89（万）
+        网页获取：{'floor': '顶层/共5层', 'total_price': 180.0, 'area': 35.21, 'evaluation': 1620000, 'room': '1室2厅', 'pure_shoufu': 747000, 'tax_total': 144900, 'house_age': 29, 'month_pay_debj': 6094.5387763336, 'month_pay_debx': 7809.75, 'total_shoufu': 89.19, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共5层', 'cost_jingjiren': 4.9, 'total_price': 180, 'area': 35.21, 'evaluation': 153, 'room': '1室2厅', 'pure_shoufu': 80.6, 'tax_total': 3.1, 'house_age': 29, 'month_pay_debj': 8007, 'month_pay_debx': 6326, 'total_shoufu': 88.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103951774.html
+地铁：昌平线 总首付：80（万）
+        网页获取：{'floor': '顶层/共7层', 'total_price': 189.0, 'area': 34.12, 'evaluation': 1701000, 'room': '1室0厅', 'pure_shoufu': 784350, 'tax_total': 17955, 'house_age': 16, 'month_pay_debj': 6399.2657151503, 'month_pay_debx': 8200.2375, 'total_shoufu': 80.2305, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共7层', 'cost_jingjiren': 5.2, 'total_price': 189, 'area': 34.12, 'evaluation': 160.65, 'room': '1室0厅', 'pure_shoufu': 84.6, 'tax_total': 1.7, 'house_age': 16, 'month_pay_debj': 7745, 'month_pay_debx': 6044, 'total_shoufu': 91.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103941520.html
+地铁：昌平线 总首付：87（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 195.0, 'area': 39.62, 'evaluation': 1755000, 'room': '2室1厅', 'pure_shoufu': 809250, 'tax_total': 63975, 'house_age': 26, 'month_pay_debj': 6602.4170076948, 'month_pay_debx': 8460.5625, 'total_shoufu': 87.3225, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 5.3, 'total_price': 195, 'area': 39.62, 'evaluation': 165.75, 'room': '2室1厅', 'pure_shoufu': 87.3, 'tax_total': 3.4, 'house_age': 26, 'month_pay_debj': 8140, 'month_pay_debx': 6369, 'total_shoufu': 96.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105663761.html
+地铁：昌平线 总首付：96（万）
+        网页获取：{'floor': '顶层/共5层', 'total_price': 192.0, 'area': 41.43, 'evaluation': 1728000, 'room': '1室1厅', 'pure_shoufu': 796800, 'tax_total': 166560, 'house_age': 14, 'month_pay_debj': 6500.8413614226, 'month_pay_debx': 8330.4, 'total_shoufu': 96.336, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共5层', 'cost_jingjiren': 5.2, 'total_price': 192, 'area': 41.43, 'evaluation': 163.2, 'room': '1室1厅', 'pure_shoufu': 86, 'tax_total': 3.3, 'house_age': 14, 'month_pay_debj': 7868, 'month_pay_debx': 6140, 'total_shoufu': 94.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103476899.html
+地铁：昌平线 总首付：91（万）
+        网页获取：{'floor': '中楼层/共16层', 'total_price': 195.0, 'area': 41.28, 'evaluation': 1755000, 'room': '1室1厅', 'pure_shoufu': 809250, 'tax_total': 110267.84, 'house_age': 4, 'month_pay_debj': 6602.4170076948, 'month_pay_debx': 8460.5625, 'total_shoufu': 91.951784, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共16层', 'cost_jingjiren': 5.3, 'total_price': 195, 'area': 41.28, 'evaluation': 165.75, 'room': '1室1厅', 'pure_shoufu': 87.3, 'tax_total': 11.9, 'house_age': 4, 'month_pay_debj': 7991, 'month_pay_debx': 6236, 'total_shoufu': 104.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105228953.html
+地铁：昌平线 总首付：92（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 189.0, 'area': 39.12, 'evaluation': 1701000, 'room': '1室1厅', 'pure_shoufu': 784350, 'tax_total': 141145, 'house_age': 29, 'month_pay_debj': 6399.2657151503, 'month_pay_debx': 8200.2375, 'total_shoufu': 92.5495, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 5.2, 'total_price': 189, 'area': 39.12, 'evaluation': 160.65, 'room': '1室1厅', 'pure_shoufu': 84.6, 'tax_total': 3.3, 'house_age': 29, 'month_pay_debj': 8408, 'month_pay_debx': 6643, 'total_shoufu': 93.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105384687.html
+地铁：昌平线 总首付：83（万）
+        网页获取：{'floor': '顶层/共7层', 'total_price': 196.0, 'area': 34.12, 'evaluation': 1764000, 'room': '1室0厅', 'pure_shoufu': 813400, 'tax_total': 18620, 'house_age': 16, 'month_pay_debj': 6636.2755564522, 'month_pay_debx': 8503.95, 'total_shoufu': 83.202, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共7层', 'cost_jingjiren': 5.3, 'total_price': 196, 'area': 34.12, 'evaluation': 166.6, 'room': '1室0厅', 'pure_shoufu': 87.8, 'tax_total': 1.7, 'house_age': 16, 'month_pay_debj': 8032, 'month_pay_debx': 6268, 'total_shoufu': 94.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104078082.html
+地铁：昌平线 总首付：75（万）
+        网页获取：{'floor': '中楼层/共7层', 'total_price': 178.0, 'area': 34.12, 'evaluation': 1602000, 'room': '1室0厅', 'pure_shoufu': 738700, 'tax_total': 16910, 'house_age': 16, 'month_pay_debj': 6026.8216788188, 'month_pay_debx': 7722.975, 'total_shoufu': 75.561, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共7层', 'cost_jingjiren': 4.9, 'total_price': 178, 'area': 34.12, 'evaluation': 151.3, 'room': '1室0厅', 'pure_shoufu': 79.7, 'tax_total': 1.6, 'house_age': 16, 'month_pay_debj': 7294, 'month_pay_debx': 5692, 'total_shoufu': 86.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104413311.html
+地铁：昌平线 总首付：97（万）
+        网页获取：{'floor': '中楼层/共5层', 'total_price': 194.0, 'area': 44.29, 'evaluation': 1746000, 'room': '1室1厅', 'pure_shoufu': 805100, 'tax_total': 170170, 'house_age': 14, 'month_pay_debj': 6568.5584589374, 'month_pay_debx': 8417.175, 'total_shoufu': 97.527, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共5层', 'cost_jingjiren': 5.3, 'total_price': 194, 'area': 44.29, 'evaluation': 164.9, 'room': '1室1厅', 'pure_shoufu': 86.9, 'tax_total': 3.3, 'house_age': 14, 'month_pay_debj': 7950, 'month_pay_debx': 6204, 'total_shoufu': 95.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102726091.html
+地铁：昌平线 总首付：76（万）
+        网页获取：{'floor': '顶层/共7层', 'total_price': 180.0, 'area': 34.12, 'evaluation': 1620000, 'room': '1室0厅', 'pure_shoufu': 747000, 'tax_total': 17100, 'house_age': 16, 'month_pay_debj': 6094.5387763336, 'month_pay_debx': 7809.75, 'total_shoufu': 76.41, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共7层', 'cost_jingjiren': 4.9, 'total_price': 180, 'area': 34.12, 'evaluation': 153, 'room': '1室0厅', 'pure_shoufu': 80.6, 'tax_total': 1.6, 'house_age': 16, 'month_pay_debj': 7376, 'month_pay_debx': 5756, 'total_shoufu': 87.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102912728.html
+地铁：昌平线 总首付：75（万）
+        网页获取：{'floor': '中楼层/共7层', 'total_price': 179.0, 'area': 34.12, 'evaluation': 1611000, 'room': '1室0厅', 'pure_shoufu': 742850, 'tax_total': 17005, 'house_age': 16, 'month_pay_debj': 6060.6802275762, 'month_pay_debx': 7766.3625, 'total_shoufu': 75.9855, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共7层', 'cost_jingjiren': 4.9, 'total_price': 179, 'area': 34.12, 'evaluation': 152.15, 'room': '1室0厅', 'pure_shoufu': 80.2, 'tax_total': 1.6, 'house_age': 16, 'month_pay_debj': 7335, 'month_pay_debx': 5724, 'total_shoufu': 86.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103818286.html
+地铁：昌平线 总首付：88（万）
+        网页获取：{'floor': '顶层/共7层', 'total_price': 179.9, 'area': 34.12, 'evaluation': 1619100, 'room': '1室0厅', 'pure_shoufu': 746585, 'tax_total': 134719.5, 'house_age': 16, 'month_pay_debj': 6091.1529214579, 'month_pay_debx': 7805.41125, 'total_shoufu': 88.13045, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共7层', 'cost_jingjiren': 4.9, 'total_price': 179.9, 'area': 34.12, 'evaluation': 152.915, 'room': '1室0厅', 'pure_shoufu': 80.6, 'tax_total': 3.1, 'house_age': 16, 'month_pay_debj': 7372, 'month_pay_debx': 5753, 'total_shoufu': 88.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103829644.html
+地铁：昌平线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共5层', 'total_price': 189.0, 'area': 41.2, 'evaluation': 1701000, 'room': '1室1厅', 'pure_shoufu': 784350, 'tax_total': 168145, 'house_age': 14, 'month_pay_debj': 6399.2657151503, 'month_pay_debx': 8200.2375, 'total_shoufu': 95.2495, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共5层', 'cost_jingjiren': 5.2, 'total_price': 189, 'area': 41.2, 'evaluation': 160.65, 'room': '1室1厅', 'pure_shoufu': 84.6, 'tax_total': 3.3, 'house_age': 14, 'month_pay_debj': 7745, 'month_pay_debx': 6044, 'total_shoufu': 93.1, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103886066.html
+地铁：昌平线 总首付：83（万）
+        网页获取：{'floor': '高楼层/共7层', 'total_price': 178.0, 'area': 34.12, 'evaluation': 1602000, 'room': '1室0厅', 'pure_shoufu': 738700, 'tax_total': 100654.75, 'house_age': 16, 'month_pay_debj': 6026.8216788188, 'month_pay_debx': 7722.975, 'total_shoufu': 83.935475, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共7层', 'cost_jingjiren': 4.9, 'total_price': 178, 'area': 34.12, 'evaluation': 151.3, 'room': '1室0厅', 'pure_shoufu': 79.7, 'tax_total': 10.8, 'house_age': 16, 'month_pay_debj': 7294, 'month_pay_debx': 5692, 'total_shoufu': 95.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105125459.html
+地铁：昌平线 总首付：84（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 199.0, 'area': 44.44, 'evaluation': 1791000, 'room': '2室1厅', 'pure_shoufu': 825850, 'tax_total': 18905, 'house_age': 18, 'month_pay_debj': 6737.8512027244, 'month_pay_debx': 8634.1125, 'total_shoufu': 84.4755, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.4, 'total_price': 199, 'area': 44.44, 'evaluation': 169.15, 'room': '2室1厅', 'pure_shoufu': 89.1, 'tax_total': 1.7, 'house_age': 18, 'month_pay_debj': 8154, 'month_pay_debx': 6364, 'total_shoufu': 96.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105667733.html
+地铁：昌平线 总首付：94（万）
+        网页获取：{'floor': '中楼层/共4层', 'total_price': 223.0, 'area': 50.31, 'evaluation': 2007000, 'room': '2室1厅', 'pure_shoufu': 925450, 'tax_total': 21185, 'house_age': 0, 'month_pay_debj': 7550.4563729022, 'month_pay_debx': 9675.4125, 'total_shoufu': 94.6635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共4层', 'cost_jingjiren': 6.1, 'total_price': 223, 'area': 50.31, 'evaluation': 189.55, 'room': '2室1厅', 'pure_shoufu': 99.8, 'tax_total': 3.8, 'house_age': 0, 'month_pay_debj': 9138, 'month_pay_debx': 7131, 'total_shoufu': 109.69999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105656931.html
+地铁：昌平线 总首付：91（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 215.0, 'area': 39.12, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 20425, 'house_age': 29, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 91.2675, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 39.12, 'evaluation': 182.75, 'room': '1室1厅', 'pure_shoufu': 96.3, 'tax_total': 1.9, 'house_age': 29, 'month_pay_debj': 9564, 'month_pay_debx': 7557, 'total_shoufu': 104.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105637767.html
+地铁：昌平线 总首付：91（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 215.0, 'area': 44.52, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 20425, 'house_age': 26, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 91.2675, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 44.52, 'evaluation': 182.75, 'room': '1室1厅', 'pure_shoufu': 96.3, 'tax_total': 1.9, 'house_age': 26, 'month_pay_debj': 8975, 'month_pay_debx': 7022, 'total_shoufu': 104.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104214579.html
+地铁：昌平线 总首付：96（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 220.0, 'area': 61.6, 'evaluation': 1980000, 'room': '2室1厅', 'pure_shoufu': 913000, 'tax_total': 47100, 'house_age': 26, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 96.01, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 61.6, 'evaluation': 187, 'room': '2室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.8, 'house_age': 26, 'month_pay_debj': 9184, 'month_pay_debx': 7185, 'total_shoufu': 108.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104206683.html
+地铁：昌平线 总首付：86（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 203.0, 'area': 41.25, 'evaluation': 1827000, 'room': '1室1厅', 'pure_shoufu': 842450, 'tax_total': 19285, 'house_age': 26, 'month_pay_debj': 6873.2853977541, 'month_pay_debx': 8807.6625, 'total_shoufu': 86.1735, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.5, 'total_price': 203, 'area': 41.25, 'evaluation': 172.55, 'room': '1室1厅', 'pure_shoufu': 90.9, 'tax_total': 1.8, 'house_age': 26, 'month_pay_debj': 8474, 'month_pay_debx': 6630, 'total_shoufu': 98.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105210962.html
+地铁：昌平线 总首付：93（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 220.0, 'area': 54.72, 'evaluation': 1980000, 'room': '2室1厅', 'pure_shoufu': 913000, 'tax_total': 21605.88, 'house_age': 26, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.460588, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 54.72, 'evaluation': 187, 'room': '2室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.9, 'house_age': 26, 'month_pay_debj': 9184, 'month_pay_debx': 7185, 'total_shoufu': 108.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105489057.html
+地铁：昌平线 总首付：89（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 210.0, 'area': 42.73, 'evaluation': 1890000, 'room': '1室1厅', 'pure_shoufu': 871500, 'tax_total': 19950, 'house_age': 27, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 89.145, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.7, 'total_price': 210, 'area': 42.73, 'evaluation': 178.5, 'room': '1室1厅', 'pure_shoufu': 94, 'tax_total': 1.8, 'house_age': 27, 'month_pay_debj': 8941, 'month_pay_debx': 7016, 'total_shoufu': 101.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105179918.html
+地铁：昌平线 总首付：87（万）
+        网页获取：{'floor': '中楼层/共19层', 'total_price': 205.0, 'area': 49.6, 'evaluation': 1845000, 'room': '1室0厅', 'pure_shoufu': 850750, 'tax_total': 19475, 'house_age': 16, 'month_pay_debj': 6941.0024952689, 'month_pay_debx': 8894.4375, 'total_shoufu': 87.0225, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共19层', 'cost_jingjiren': 5.6, 'total_price': 205, 'area': 49.6, 'evaluation': 174.25, 'room': '1室0厅', 'pure_shoufu': 91.8, 'tax_total': 1.8, 'house_age': 16, 'month_pay_debj': 8400, 'month_pay_debx': 6555, 'total_shoufu': 99.19999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104364983.html
+地铁：昌平线 总首付：93（万）
+        网页获取：{'floor': '高楼层/共19层', 'total_price': 220.0, 'area': 45.66, 'evaluation': 1980000, 'room': '1室0厅', 'pure_shoufu': 913000, 'tax_total': 20900, 'house_age': 16, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.39, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共19层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 45.66, 'evaluation': 187, 'room': '1室0厅', 'pure_shoufu': 98.5, 'tax_total': 1.9, 'house_age': 16, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 106.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105356790.html
+地铁：昌平线 总首付：102（万）
+        网页获取：{'floor': '顶层/共19层', 'total_price': 210.0, 'area': 46.75, 'evaluation': 1890000, 'room': '1室1厅', 'pure_shoufu': 871500, 'tax_total': 157900, 'house_age': 16, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 102.94, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共19层', 'cost_jingjiren': 5.7, 'total_price': 210, 'area': 46.75, 'evaluation': 178.5, 'room': '1室1厅', 'pure_shoufu': 94, 'tax_total': 12.8, 'house_age': 16, 'month_pay_debj': 8605, 'month_pay_debx': 6715, 'total_shoufu': 112.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105557388.html
+地铁：昌平线 总首付：93（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 220.0, 'area': 59.49, 'evaluation': 1980000, 'room': '2室1厅', 'pure_shoufu': 913000, 'tax_total': 20900, 'house_age': 25, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.39, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 59.49, 'evaluation': 187, 'room': '2室1厅', 'pure_shoufu': 98.5, 'tax_total': 3.8, 'house_age': 25, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 108.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103979592.html
+地铁：昌平线 总首付：91（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 215.0, 'area': 45.83, 'evaluation': 1935000, 'room': '1室1厅', 'pure_shoufu': 892250, 'tax_total': 21016.2, 'house_age': 25, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 91.32661999999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 45.83, 'evaluation': 182.75, 'room': '1室1厅', 'pure_shoufu': 96.3, 'tax_total': 3.8, 'house_age': 25, 'month_pay_debj': 8810, 'month_pay_debx': 6875, 'total_shoufu': 106.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105573732.html
+地铁：昌平线 总首付：92（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 218.0, 'area': 46.97, 'evaluation': 1962000, 'room': '2室1厅', 'pure_shoufu': 904700, 'tax_total': 20710, 'house_age': 0, 'month_pay_debj': 7381.1636291152, 'month_pay_debx': 9458.475, 'total_shoufu': 92.541, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 5.9, 'total_price': 218, 'area': 46.97, 'evaluation': 185.3, 'room': '2室1厅', 'pure_shoufu': 97.6, 'tax_total': 1.9, 'house_age': 0, 'month_pay_debj': 8933, 'month_pay_debx': 6971, 'total_shoufu': 105.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104351718.html
+地铁：昌平线 总首付：87（万）
+        网页获取：{'floor': '低楼层/共19层', 'total_price': 205.0, 'area': 44.3, 'evaluation': 1845000, 'room': '1室1厅', 'pure_shoufu': 850750, 'tax_total': 19475, 'house_age': 16, 'month_pay_debj': 6941.0024952689, 'month_pay_debx': 8894.4375, 'total_shoufu': 87.0225, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共19层', 'cost_jingjiren': 5.6, 'total_price': 205, 'area': 44.3, 'evaluation': 174.25, 'room': '1室1厅', 'pure_shoufu': 91.8, 'tax_total': 1.8, 'house_age': 16, 'month_pay_debj': 8400, 'month_pay_debx': 6555, 'total_shoufu': 99.19999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104733243.html
+地铁：昌平线 总首付：101（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 210.0, 'area': 59.49, 'evaluation': 1890000, 'room': '2室1厅', 'pure_shoufu': 871500, 'tax_total': 139050, 'house_age': 25, 'month_pay_debj': 7110.2952390559, 'month_pay_debx': 9111.375, 'total_shoufu': 101.055, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.7, 'total_price': 210, 'area': 59.49, 'evaluation': 178.5, 'room': '2室1厅', 'pure_shoufu': 94, 'tax_total': 3.6, 'house_age': 25, 'month_pay_debj': 8605, 'month_pay_debx': 6715, 'total_shoufu': 103.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104570421.html
+地铁：昌平线 总首付：91（万）
+        网页获取：{'floor': '高楼层/共19层', 'total_price': 215.0, 'area': 49.6, 'evaluation': 1935000, 'room': '1室0厅', 'pure_shoufu': 892250, 'tax_total': 20425, 'house_age': 16, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 91.2675, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共19层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 49.6, 'evaluation': 182.75, 'room': '1室0厅', 'pure_shoufu': 96.3, 'tax_total': 1.9, 'house_age': 16, 'month_pay_debj': 8810, 'month_pay_debx': 6875, 'total_shoufu': 104.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103852614.html
+地铁：昌平线 总首付：92（万）
+        网页获取：{'floor': '高楼层/共19层', 'total_price': 218.0, 'area': 49.6, 'evaluation': 1962000, 'room': '1室0厅', 'pure_shoufu': 904700, 'tax_total': 20710, 'house_age': 16, 'month_pay_debj': 7381.1636291152, 'month_pay_debx': 9458.475, 'total_shoufu': 92.541, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共19层', 'cost_jingjiren': 5.9, 'total_price': 218, 'area': 49.6, 'evaluation': 185.3, 'room': '1室0厅', 'pure_shoufu': 97.6, 'tax_total': 1.9, 'house_age': 16, 'month_pay_debj': 8933, 'month_pay_debx': 6971, 'total_shoufu': 105.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104239172.html
+地铁：昌平线 总首付：98（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 232.0, 'area': 64.74, 'evaluation': 2088000, 'room': '2室1厅', 'pure_shoufu': 962800, 'tax_total': 22040, 'house_age': 0, 'month_pay_debj': 7855.1833117189, 'month_pay_debx': 10065.9, 'total_shoufu': 98.484, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.3, 'total_price': 232, 'area': 64.74, 'evaluation': 197.2, 'room': '2室1厅', 'pure_shoufu': 103.9, 'tax_total': 2, 'house_age': 0, 'month_pay_debj': 9507, 'month_pay_debx': 7419, 'total_shoufu': 112.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104907556.html
+地铁：昌平线 总首付：95（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 225.0, 'area': 54.84, 'evaluation': 2025000, 'room': '2室1厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 27, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 54.84, 'evaluation': 191.25, 'room': '2室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 27, 'month_pay_debj': 9580, 'month_pay_debx': 7517, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104447837.html
+地铁：昌平线 总首付：101（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 240.0, 'area': 49.32, 'evaluation': 2160000, 'room': '1室1厅', 'pure_shoufu': 996000, 'tax_total': 23436.22, 'house_age': 27, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.94362199999999, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 49.32, 'evaluation': 204, 'room': '1室1厅', 'pure_shoufu': 107.4, 'tax_total': 4.2, 'house_age': 27, 'month_pay_debj': 10219, 'month_pay_debx': 8018, 'total_shoufu': 118.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104674408.html
+地铁：昌平线 总首付：98（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 233.0, 'area': 58.48, 'evaluation': 2097000, 'room': '2室1厅', 'pure_shoufu': 966950, 'tax_total': 22135, 'house_age': 29, 'month_pay_debj': 7889.0418604763, 'month_pay_debx': 10109.2875, 'total_shoufu': 98.9085, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.3, 'total_price': 233, 'area': 58.48, 'evaluation': 198.05, 'room': '2室1厅', 'pure_shoufu': 104.3, 'tax_total': 2, 'house_age': 29, 'month_pay_debj': 10365, 'month_pay_debx': 8189, 'total_shoufu': 112.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104849450.html
+地铁：昌平线 总首付：95（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 225.0, 'area': 53.27, 'evaluation': 2025000, 'room': '2室1厅', 'pure_shoufu': 933750, 'tax_total': 22062.18, 'house_age': 24, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.581218, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 53.27, 'evaluation': 191.25, 'room': '2室1厅', 'pure_shoufu': 100.7, 'tax_total': 2, 'house_age': 24, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 108.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105266886.html
+地铁：昌平线 总首付：98（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 232.0, 'area': 60.93, 'evaluation': 2088000, 'room': '2室1厅', 'pure_shoufu': 962800, 'tax_total': 22040, 'house_age': 25, 'month_pay_debj': 7855.1833117189, 'month_pay_debx': 10065.9, 'total_shoufu': 98.484, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.3, 'total_price': 232, 'area': 60.93, 'evaluation': 197.2, 'room': '2室1厅', 'pure_shoufu': 103.9, 'tax_total': 2, 'house_age': 25, 'month_pay_debj': 9507, 'month_pay_debx': 7419, 'total_shoufu': 112.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105351674.html
+地铁：昌平线 总首付：101（万）
+        网页获取：{'floor': '中楼层/共15层', 'total_price': 240.0, 'area': 70.94, 'evaluation': 2160000, 'room': '1室0厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 10, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共15层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 70.94, 'evaluation': 204, 'room': '1室0厅', 'pure_shoufu': 107.4, 'tax_total': 4.1, 'house_age': 10, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 118.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104416054.html
+地铁：昌平线 总首付：99（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 235.0, 'area': 58.79, 'evaluation': 2115000, 'room': '2室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 27, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'house_age': 27, 'area': 58.79, 'floor': '低楼层/共6层', 'room': '2室1厅'}
+        链接：https://bj.lianjia.com/ershoufang/101105379494.html
+地铁：昌平线 总首付：97（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 229.0, 'area': 58.35, 'evaluation': 2061000, 'room': '2室1厅', 'pure_shoufu': 950350, 'tax_total': 21755, 'house_age': 25, 'month_pay_debj': 7753.6076654467, 'month_pay_debx': 9935.7375, 'total_shoufu': 97.2105, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.2, 'total_price': 229, 'area': 58.35, 'evaluation': 194.65, 'room': '2室1厅', 'pure_shoufu': 102.5, 'tax_total': 2, 'house_age': 25, 'month_pay_debj': 9384, 'month_pay_debx': 7323, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105242628.html
+地铁：昌平线 总首付：97（万）
+        网页获取：{'floor': '中楼层/共12层', 'total_price': 229.0, 'area': 58.54, 'evaluation': 2061000, 'room': '1室1厅', 'pure_shoufu': 950350, 'tax_total': 21755, 'house_age': 14, 'month_pay_debj': 7753.6076654467, 'month_pay_debx': 9935.7375, 'total_shoufu': 97.2105, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共12层', 'cost_jingjiren': 6.2, 'total_price': 229, 'area': 58.54, 'evaluation': 194.65, 'room': '1室1厅', 'pure_shoufu': 102.5, 'tax_total': 2, 'house_age': 14, 'month_pay_debj': 9384, 'month_pay_debx': 7323, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105766546.html
+地铁：昌平线 总首付：95（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 225.0, 'area': 56.81, 'evaluation': 2025000, 'room': '2室1厅', 'pure_shoufu': 933750, 'tax_total': 21375, 'house_age': 26, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.5125, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 56.81, 'evaluation': 191.25, 'room': '2室1厅', 'pure_shoufu': 100.7, 'tax_total': 2, 'house_age': 26, 'month_pay_debj': 9393, 'month_pay_debx': 7349, 'total_shoufu': 108.8, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105047069.html
+地铁：昌平线 总首付：100（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 236.0, 'area': 61.5, 'evaluation': 2124000, 'room': '2室1厅', 'pure_shoufu': 979400, 'tax_total': 22420, 'house_age': 25, 'month_pay_debj': 7990.6175067486, 'month_pay_debx': 10239.45, 'total_shoufu': 100.182, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 236, 'area': 61.5, 'evaluation': 200.6, 'room': '2室1厅', 'pure_shoufu': 105.7, 'tax_total': 4.1, 'house_age': 25, 'month_pay_debj': 9671, 'month_pay_debx': 7547, 'total_shoufu': 116.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102561944.html
+地铁：昌平线 总首付：95（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 224.0, 'area': 51.18, 'evaluation': 2016000, 'room': '2室1厅', 'pure_shoufu': 929600, 'tax_total': 21280, 'house_age': 24, 'month_pay_debj': 7584.3149216596, 'month_pay_debx': 9718.8, 'total_shoufu': 95.088, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.1, 'total_price': 224, 'area': 51.18, 'evaluation': 190.4, 'room': '2室1厅', 'pure_shoufu': 100.3, 'tax_total': 2, 'house_age': 24, 'month_pay_debj': 9179, 'month_pay_debx': 7163, 'total_shoufu': 108.39999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104908755.html
+地铁：昌平线 总首付：101（万）
+        网页获取：{'floor': '顶层/共4层', 'total_price': 240.0, 'area': 50.12, 'evaluation': 2160000, 'room': '2室1厅', 'pure_shoufu': 996000, 'tax_total': 23446.54, 'house_age': 29, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.944654, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共4层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 50.12, 'evaluation': 204, 'room': '2室1厅', 'pure_shoufu': 107.4, 'tax_total': 2.2, 'house_age': 29, 'month_pay_debj': 10676, 'month_pay_debx': 8435, 'total_shoufu': 116.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101102856662.html
+地铁：昌平线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共4层', 'total_price': 245.0, 'area': 58.37, 'evaluation': 2205000, 'room': '3室1厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 27, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共4层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 58.37, 'evaluation': 208.25, 'room': '3室1厅', 'pure_shoufu': 109.7, 'tax_total': 2.1, 'house_age': 27, 'month_pay_debj': 10432, 'month_pay_debx': 8186, 'total_shoufu': 118.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104751933.html
+地铁：八通线 总首付：93（万）
+        网页获取：{'floor': '中楼层/共12层', 'total_price': 220.0, 'area': 46.58, 'evaluation': 1980000, 'room': '1室0厅', 'pure_shoufu': 913000, 'tax_total': 20900, 'house_age': 15, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.39, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共12层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 46.58, 'evaluation': 187, 'room': '1室0厅', 'pure_shoufu': 98.5, 'tax_total': 1.9, 'house_age': 15, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 106.4, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105551924.html
+地铁：八通线 总首付：93（万）
+        网页获取：{'floor': '低楼层/共12层', 'total_price': 220.0, 'area': 45.5, 'evaluation': 1980000, 'room': '1室0厅', 'pure_shoufu': 913000, 'tax_total': 20900, 'house_age': 12, 'month_pay_debj': 7448.88072663, 'month_pay_debx': 9545.25, 'total_shoufu': 93.39, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共12层', 'cost_jingjiren': 6, 'total_price': 220, 'area': 45.5, 'evaluation': 187, 'room': '1室0厅', 'pure_shoufu': 98.5, 'tax_total': 3.8, 'house_age': 12, 'month_pay_debj': 9015, 'month_pay_debx': 7035, 'total_shoufu': 108.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104096851.html
+地铁：八通线 总首付：92（万）
+        网页获取：{'floor': '中楼层/共12层', 'total_price': 219.0, 'area': 42.83, 'evaluation': 1971000, 'room': '1室0厅', 'pure_shoufu': 908850, 'tax_total': 20805, 'house_age': 15, 'month_pay_debj': 7415.0221778726, 'month_pay_debx': 9501.8625, 'total_shoufu': 92.9655, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共12层', 'cost_jingjiren': 6, 'total_price': 219, 'area': 42.83, 'evaluation': 186.15, 'room': '1室0厅', 'pure_shoufu': 98.1, 'tax_total': 1.9, 'house_age': 15, 'month_pay_debj': 8974, 'month_pay_debx': 7003, 'total_shoufu': 106.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104964264.html
+地铁：八通线 总首付：95（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 225.0, 'area': 45.0, 'evaluation': 2025000, 'room': '1室1厅', 'pure_shoufu': 933750, 'tax_total': 21955.5, 'house_age': 29, 'month_pay_debj': 7618.1734704171, 'month_pay_debx': 9762.1875, 'total_shoufu': 95.57055, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 45.0, 'evaluation': 191.25, 'room': '1室1厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 29, 'month_pay_debj': 10009, 'month_pay_debx': 7908, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104653548.html
+地铁：八通线 总首付：91（万）
+        网页获取：{'floor': '高楼层/共12层', 'total_price': 215.0, 'area': 42.83, 'evaluation': 1935000, 'room': '1室0厅', 'pure_shoufu': 892250, 'tax_total': 20425, 'house_age': 15, 'month_pay_debj': 7279.587982843, 'month_pay_debx': 9328.3125, 'total_shoufu': 91.2675, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共12层', 'cost_jingjiren': 5.9, 'total_price': 215, 'area': 42.83, 'evaluation': 182.75, 'room': '1室0厅', 'pure_shoufu': 96.3, 'tax_total': 3.7, 'house_age': 15, 'month_pay_debj': 8810, 'month_pay_debx': 6875, 'total_shoufu': 105.9, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104332733.html
+地铁：八通线 总首付：99（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 199.0, 'area': 33.55, 'evaluation': 1791000, 'room': '1室0厅', 'pure_shoufu': 825850, 'tax_total': 173195, 'house_age': 29, 'month_pay_debj': 6737.8512027244, 'month_pay_debx': 8634.1125, 'total_shoufu': 99.9045, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 5.4, 'total_price': 199, 'area': 33.55, 'evaluation': 169.15, 'room': '1室0厅', 'pure_shoufu': 89.1, 'tax_total': 3.4, 'house_age': 29, 'month_pay_debj': 8853, 'month_pay_debx': 6994, 'total_shoufu': 97.9, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105488799.html
+地铁：八通线 总首付：84（万）
+        网页获取：{'floor': '中楼层/共12层', 'total_price': 199.0, 'area': 42.72, 'evaluation': 1791000, 'room': '1室0厅', 'pure_shoufu': 825850, 'tax_total': 18905, 'house_age': 15, 'month_pay_debj': 6737.8512027244, 'month_pay_debx': 8634.1125, 'total_shoufu': 84.4755, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共12层', 'cost_jingjiren': 5.4, 'total_price': 199, 'area': 42.72, 'evaluation': 169.15, 'room': '1室0厅', 'pure_shoufu': 89.1, 'tax_total': 3.4, 'house_age': 15, 'month_pay_debj': 8154, 'month_pay_debx': 6364, 'total_shoufu': 97.9, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105501276.html
+地铁：八通线 总首付：100（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 236.0, 'area': 44.8, 'evaluation': 2124000, 'room': '1室0厅', 'pure_shoufu': 979400, 'tax_total': 22420, 'house_age': 15, 'month_pay_debj': 7990.6175067486, 'month_pay_debx': 10239.45, 'total_shoufu': 100.182, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.4, 'total_price': 236, 'area': 44.8, 'evaluation': 200.6, 'room': '1室0厅', 'pure_shoufu': 105.7, 'tax_total': 4.1, 'house_age': 15, 'month_pay_debj': 9671, 'month_pay_debx': 7547, 'total_shoufu': 116.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105759768.html
+地铁：八通线 总首付：98（万）
+        网页获取：{'floor': '中楼层/共6层', 'total_price': 231.0, 'area': 46.35, 'evaluation': 2079000, 'room': '1室1厅', 'pure_shoufu': 958650, 'tax_total': 21945, 'house_age': 27, 'month_pay_debj': 7821.3247629615, 'month_pay_debx': 10022.5125, 'total_shoufu': 98.0595, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共6层', 'cost_jingjiren': 6.3, 'total_price': 231, 'area': 46.35, 'evaluation': 196.35, 'room': '1室1厅', 'pure_shoufu': 103.4, 'tax_total': 2, 'house_age': 27, 'month_pay_debj': 9836, 'month_pay_debx': 7718, 'total_shoufu': 111.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103266079.html
+地铁：八通线 总首付：100（万）
+        网页获取：{'floor': '低楼层/共18层', 'total_price': 236.0, 'area': 41.16, 'evaluation': 2124000, 'room': '1室0厅', 'pure_shoufu': 979400, 'tax_total': 22420, 'house_age': 13, 'month_pay_debj': 7990.6175067486, 'month_pay_debx': 10239.45, 'total_shoufu': 100.182, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共18层', 'cost_jingjiren': 6.4, 'total_price': 236, 'area': 41.16, 'evaluation': 200.6, 'room': '1室0厅', 'pure_shoufu': 105.7, 'tax_total': 2.1, 'house_age': 13, 'month_pay_debj': 9671, 'month_pay_debx': 7547, 'total_shoufu': 114.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105368893.html
+地铁：八通线 总首付：99（万）
+        网页获取：{'floor': '高楼层/共18层', 'total_price': 235.0, 'area': 39.96, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 14, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共18层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 39.96, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 2, 'house_age': 14, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 113.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105645697.html
+地铁：八通线 总首付：99（万）
+        网页获取：{'floor': '底层/共12层', 'total_price': 230.0, 'area': 46.16, 'evaluation': 2070000, 'room': '1室0厅', 'pure_shoufu': 954500, 'tax_total': 45150, 'house_age': 15, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 99.965, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共12层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 46.16, 'evaluation': 195.5, 'room': '1室0厅', 'pure_shoufu': 103, 'tax_total': 4, 'house_age': 15, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 113.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104944472.html
+地铁：八通线 总首付：100（万）
+        网页获取：{'floor': '中楼层/共18层', 'total_price': 236.0, 'area': 42.47, 'evaluation': 2124000, 'room': '1室0厅', 'pure_shoufu': 979400, 'tax_total': 22420, 'house_age': 14, 'month_pay_debj': 7990.6175067486, 'month_pay_debx': 10239.45, 'total_shoufu': 100.182, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共18层', 'cost_jingjiren': 6.4, 'total_price': 236, 'area': 42.47, 'evaluation': 200.6, 'room': '1室0厅', 'pure_shoufu': 105.7, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 9671, 'month_pay_debx': 7547, 'total_shoufu': 114.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105343252.html
+地铁：八通线 总首付：99（万）
+        网页获取：{'floor': '高楼层/共18层', 'total_price': 235.0, 'area': 39.96, 'evaluation': 2115000, 'room': '1室1厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 14, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共18层', 'cost_jingjiren': 6.4, 'total_price': 235, 'area': 39.96, 'evaluation': 199.75, 'room': '1室1厅', 'pure_shoufu': 105.2, 'tax_total': 2, 'house_age': 14, 'month_pay_debj': 9630, 'month_pay_debx': 7515, 'total_shoufu': 113.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104176482.html
+地铁：八通线 总首付：101（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 240.0, 'area': 50.18, 'evaluation': 2160000, 'room': '1室1厅', 'pure_shoufu': 996000, 'tax_total': 23447.32, 'house_age': 27, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.944732, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 50.18, 'evaluation': 204, 'room': '1室1厅', 'pure_shoufu': 107.4, 'tax_total': 4.2, 'house_age': 27, 'month_pay_debj': 10219, 'month_pay_debx': 8018, 'total_shoufu': 118.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105307581.html
+地铁：八通线 总首付：101（万）
+        网页获取：{'floor': '中楼层/共19层', 'total_price': 239.0, 'area': 36.78, 'evaluation': 2151000, 'room': '1室0厅', 'pure_shoufu': 991850, 'tax_total': 22705, 'house_age': 14, 'month_pay_debj': 8092.1931530208, 'month_pay_debx': 10369.6125, 'total_shoufu': 101.4555, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共19层', 'cost_jingjiren': 6.5, 'total_price': 239, 'area': 36.78, 'evaluation': 203.15, 'room': '1室0厅', 'pure_shoufu': 107, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 9794, 'month_pay_debx': 7643, 'total_shoufu': 115.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104445799.html
+地铁：八通线 总首付：101（万）
+        网页获取：{'floor': '底层/共11层', 'total_price': 239.0, 'area': 42.37, 'evaluation': 2151000, 'room': '1室1厅', 'pure_shoufu': 991850, 'tax_total': 22705, 'house_age': 14, 'month_pay_debj': 8092.1931530208, 'month_pay_debx': 10369.6125, 'total_shoufu': 101.4555, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共11层', 'cost_jingjiren': 6.5, 'total_price': 239, 'area': 42.37, 'evaluation': 203.15, 'room': '1室1厅', 'pure_shoufu': 107, 'tax_total': 4.1, 'house_age': 14, 'month_pay_debj': 9794, 'month_pay_debx': 7643, 'total_shoufu': 117.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103916923.html
+地铁：八通线 总首付：100（万）
+        网页获取：{'floor': '中楼层/共19层', 'total_price': 236.0, 'area': 36.78, 'evaluation': 2124000, 'room': '1室0厅', 'pure_shoufu': 979400, 'tax_total': 22420, 'house_age': 14, 'month_pay_debj': 7990.6175067486, 'month_pay_debx': 10239.45, 'total_shoufu': 100.182, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共19层', 'cost_jingjiren': 6.4, 'total_price': 236, 'area': 36.78, 'evaluation': 200.6, 'room': '1室0厅', 'pure_shoufu': 105.7, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 9671, 'month_pay_debx': 7547, 'total_shoufu': 114.2, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105168173.html
+地铁：八通线 总首付：97（万）
+        网页获取：{'floor': '高楼层/共16层', 'total_price': 230.0, 'area': 35.03, 'evaluation': 2070000, 'room': '1室1厅', 'pure_shoufu': 954500, 'tax_total': 21850, 'house_age': 13, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共16层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 35.03, 'evaluation': 195.5, 'room': '1室1厅', 'pure_shoufu': 103, 'tax_total': 2, 'house_age': 13, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 111.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105236617.html
+地铁：八通线 总首付：97（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 230.0, 'area': 57.56, 'evaluation': 2070000, 'room': '1室1厅', 'pure_shoufu': 954500, 'tax_total': 21850, 'house_age': 16, 'month_pay_debj': 7787.4662142041, 'month_pay_debx': 9979.125, 'total_shoufu': 97.635, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.3, 'total_price': 230, 'area': 57.56, 'evaluation': 195.5, 'room': '1室1厅', 'pure_shoufu': 103, 'tax_total': 4, 'house_age': 16, 'month_pay_debj': 9425, 'month_pay_debx': 7355, 'total_shoufu': 113.3, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105688963.html
+地铁：八通线 总首付：101（万）
+        网页获取：{'floor': '低楼层/共18层', 'total_price': 238.0, 'area': 47.39, 'evaluation': 2142000, 'room': '1室0厅', 'pure_shoufu': 987700, 'tax_total': 22610, 'house_age': 14, 'month_pay_debj': 8058.3346042634, 'month_pay_debx': 10326.225, 'total_shoufu': 101.031, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共18层', 'cost_jingjiren': 6.5, 'total_price': 238, 'area': 47.39, 'evaluation': 202.3, 'room': '1室0厅', 'pure_shoufu': 106.6, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 9753, 'month_pay_debx': 7611, 'total_shoufu': 115.19999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104700938.html
+地铁：八通线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共25层', 'total_price': 245.0, 'area': 44.06, 'evaluation': 2205000, 'room': '1室0厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 14, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共25层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 44.06, 'evaluation': 208.25, 'room': '1室0厅', 'pure_shoufu': 109.7, 'tax_total': 4.2, 'house_age': 14, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 120.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105531067.html
+地铁：八通线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共12层', 'total_price': 246.0, 'area': 42.61, 'evaluation': 2214000, 'room': '1室0厅', 'pure_shoufu': 1020900, 'tax_total': 23370, 'house_age': 15, 'month_pay_debj': 8329.2029943227, 'month_pay_debx': 10673.325, 'total_shoufu': 104.427, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共12层', 'cost_jingjiren': 6.7, 'total_price': 246, 'area': 42.61, 'evaluation': 209.1, 'room': '1室0厅', 'pure_shoufu': 110.1, 'tax_total': 2.1, 'house_age': 15, 'month_pay_debj': 10080, 'month_pay_debx': 7866, 'total_shoufu': 118.89999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104645558.html
+地铁：八通线 总首付：103（万）
+        网页获取：{'floor': '中楼层/共24层', 'total_price': 243.0, 'area': 44.82, 'evaluation': 2187000, 'room': '1室0厅', 'pure_shoufu': 1008450, 'tax_total': 23085, 'house_age': 14, 'month_pay_debj': 8227.6273480504, 'month_pay_debx': 10543.1625, 'total_shoufu': 103.1535, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共24层', 'cost_jingjiren': 6.6, 'total_price': 243, 'area': 44.82, 'evaluation': 206.55, 'room': '1室0厅', 'pure_shoufu': 108.8, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 9957, 'month_pay_debx': 7771, 'total_shoufu': 117.49999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103257678.html
+地铁：八通线 总首付：101（万）
+        网页获取：{'floor': '低楼层/共6层', 'total_price': 240.0, 'area': 48.21, 'evaluation': 2160000, 'room': '1室0厅', 'pure_shoufu': 996000, 'tax_total': 22800, 'house_age': 14, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.88, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 48.21, 'evaluation': 204, 'room': '1室0厅', 'pure_shoufu': 107.4, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 116.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105039309.html
+地铁：八通线 总首付：104（万）
+        网页获取：{'floor': '高楼层/共19层', 'total_price': 246.0, 'area': 43.49, 'evaluation': 2214000, 'room': '1室0厅', 'pure_shoufu': 1020900, 'tax_total': 23370, 'house_age': 10, 'month_pay_debj': 8329.2029943227, 'month_pay_debx': 10673.325, 'total_shoufu': 104.427, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共19层', 'cost_jingjiren': 6.7, 'total_price': 246, 'area': 43.49, 'evaluation': 209.1, 'room': '1室0厅', 'pure_shoufu': 110.1, 'tax_total': 4.2, 'house_age': 10, 'month_pay_debj': 10080, 'month_pay_debx': 7866, 'total_shoufu': 121.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105506800.html
+地铁：八通线 总首付：104（万）
+        网页获取：{'floor': '低楼层/共24层', 'total_price': 245.0, 'area': 44.0, 'evaluation': 2205000, 'room': '1室0厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 14, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共24层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 44.0, 'evaluation': 208.25, 'room': '1室0厅', 'pure_shoufu': 109.7, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 118.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105541942.html
+地铁：八通线 总首付：103（万）
+        网页获取：{'floor': '顶层/共6层', 'total_price': 243.0, 'area': 46.43, 'evaluation': 2187000, 'room': '1室1厅', 'pure_shoufu': 1008450, 'tax_total': 23085, 'house_age': 25, 'month_pay_debj': 8227.6273480504, 'month_pay_debx': 10543.1625, 'total_shoufu': 103.1535, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '顶层/共6层', 'cost_jingjiren': 6.6, 'total_price': 243, 'area': 46.43, 'evaluation': 206.55, 'room': '1室1厅', 'pure_shoufu': 108.8, 'tax_total': 4.2, 'house_age': 25, 'month_pay_debj': 9957, 'month_pay_debx': 7771, 'total_shoufu': 119.6, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104754526.html
+地铁：八通线 总首付：104（万）
+        网页获取：{'floor': '低楼层/共24层', 'total_price': 245.0, 'area': 46.97, 'evaluation': 2205000, 'room': '1室0厅', 'pure_shoufu': 1016750, 'tax_total': 23275, 'house_age': 14, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.0025, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '低楼层/共24层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 46.97, 'evaluation': 208.25, 'room': '1室0厅', 'pure_shoufu': 109.7, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 118.5, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104887836.html
+地铁：八通线 总首付：104（万）
+        网页获取：{'floor': '中楼层/共24层', 'total_price': 246.0, 'area': 44.06, 'evaluation': 2214000, 'room': '1室0厅', 'pure_shoufu': 1020900, 'tax_total': 23370, 'house_age': 14, 'month_pay_debj': 8329.2029943227, 'month_pay_debx': 10673.325, 'total_shoufu': 104.427, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '中楼层/共24层', 'cost_jingjiren': 6.7, 'total_price': 246, 'area': 44.06, 'evaluation': 209.1, 'room': '1室0厅', 'pure_shoufu': 110.1, 'tax_total': 2.1, 'house_age': 14, 'month_pay_debj': 10080, 'month_pay_debx': 7866, 'total_shoufu': 118.89999999999999, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101103495728.html
+地铁：亦庄线 总首付：92（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 219.0, 'area': 54.08, 'evaluation': 1971000, 'room': '2室1厅', 'pure_shoufu': 908850, 'tax_total': 20805, 'house_age': 22, 'month_pay_debj': 7415.0221778726, 'month_pay_debx': 9501.8625, 'total_shoufu': 92.9655, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6, 'total_price': 219, 'area': 54.08, 'evaluation': 186.15, 'room': '2室1厅', 'pure_shoufu': 98.1, 'tax_total': 1.9, 'house_age': 22, 'month_pay_debj': 8974, 'month_pay_debx': 7003, 'total_shoufu': 106.0, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105217839.html
+地铁：亦庄线 总首付：104（万）
+        网页获取：{'floor': '高楼层/共6层', 'total_price': 245.0, 'area': 61.72, 'evaluation': 2205000, 'room': '1室1厅', 'pure_shoufu': 1016750, 'tax_total': 24071.18, 'house_age': 22, 'month_pay_debj': 8295.3444455652, 'month_pay_debx': 10629.9375, 'total_shoufu': 104.08211800000001, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共6层', 'cost_jingjiren': 6.7, 'total_price': 245, 'area': 61.72, 'evaluation': 208.25, 'room': '1室1厅', 'pure_shoufu': 109.7, 'tax_total': 2.2, 'house_age': 22, 'month_pay_debj': 10039, 'month_pay_debx': 7834, 'total_shoufu': 118.60000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105080055.html
+地铁：亦庄线 总首付：99（万）
+        网页获取：{'floor': '高楼层/共18层', 'total_price': 235.0, 'area': 31.69, 'evaluation': 2115000, 'room': '1室0厅', 'pure_shoufu': 975250, 'tax_total': 22325, 'house_age': 17, 'month_pay_debj': 7956.7589579912, 'month_pay_debx': 10196.0625, 'total_shoufu': 99.7575, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '高楼层/共18层', 'cost_jingjiren': 6.1, 'total_price': 225, 'area': 31.69, 'evaluation': 191.25, 'room': '1室0厅', 'pure_shoufu': 100.7, 'tax_total': 3.9, 'house_age': 17, 'month_pay_debj': 9220, 'month_pay_debx': 7195, 'total_shoufu': 110.7, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101104841864.html
+地铁：亦庄线 总首付：101（万）
+        网页获取：{'floor': '底层/共6层', 'total_price': 240.0, 'area': 57.51, 'evaluation': 2160000, 'room': '2室1厅', 'pure_shoufu': 996000, 'tax_total': 23541.87, 'house_age': 22, 'month_pay_debj': 8126.0517017782, 'month_pay_debx': 10413, 'total_shoufu': 101.954187, 'evaluation_rate': '0.90'}
+        api获取：{'floor': '底层/共6层', 'cost_jingjiren': 6.5, 'total_price': 240, 'area': 57.51, 'evaluation': 204, 'room': '2室1厅', 'pure_shoufu': 107.4, 'tax_total': 2.2, 'house_age': 22, 'month_pay_debj': 9835, 'month_pay_debx': 7675, 'total_shoufu': 116.10000000000001, 'evaluation_rate': '0.85'}
+        链接：https://bj.lianjia.com/ershoufang/101105495176.html
+
+总房源数：281
+均首付：96.1501636654804
+均总价：221.51921708185054
